@@ -24,27 +24,27 @@ control of state governments, such as torts, contracts, and family law cases. In
 
 # Understanding legal authority
 
-1. Sources of authority
+## 1. Sources of authority
 
-a. Primary sources:
+**a. Primary sources**
 
 - statutes enacted by the legislature;
 - regulations and decisions of administrative agencies, as well as executive ordders and Presidential proclamations; and
 - court opinions written by the judiciary.
 
-b. Secondary sources
+**b. Secondary sources**
 
 - anything pertaining to the law that is not considered a primary source. Can be analysis of law, critique of law, explanation of legal strategy, legal practice tips and so on.
 
-2. Weight of authority
+## 2. Weight of authority
 
 In order for a law to be binding, it must be considered mandatory authority in the jurisdiction where the case is brought.
 
-a. Mandatory authority
+**a. Mandatory authority**
 
 - statutes, administrative law, cases
 
-b. Persuasive authority
+**b. Persuasive authority**
 
 Courts have discretion to consider non-mandatory primary and secondary sources as persuasive authority. Sometimes primary law sources from another jurisdiction can be used persuasively. Secondary sources can sometimes be used persuasively too. Both can play a role in situations such as:
 
@@ -53,13 +53,13 @@ Courts have discretion to consider non-mandatory primary and secondary sources a
 - cases involving areas of law that are unsettled in a jurisdiction but may have been decided elsewhere; and
 - challenging the validity of the laws themselves.
 
-3. Case authority - additional considerations
+## 3. Case authority - additional considerations
 
-a. precedent: stare decisis
+**a. Precedent: stare decisis**
 
 - deciding cases in accordance with established precedent lends predictability and stability to the law and society, and enables people their actions with some degree of confidence that legal disputes will be handled fairly by the courts.
 
-b. Court system structure
+**b. Court system structure**
 
 The court system in a given jurisdiction affects which cases will hold mandatory authority. Usually three-tiered structure:
 
@@ -67,6 +67,6 @@ The court system in a given jurisdiction affects which cases will hold mandatory
 - Intermediate-level appellate courts
 - Final appellate courts
 
-c. Cases - which parts are considered binding
+**c. Cases - which parts are considered binding**
 
 THERE IS MORE IN THIS SECTION - WILL CONTINUE LATER
