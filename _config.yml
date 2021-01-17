@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               'DH in Prison'
-tagline:             'A minimal computing project for teaching an introductory digital humanities course to students in college-in-prison'
-description:         'The thesis part of a capstone/thesis for the M.A. in Digital Humanities at the Graduate Center of the City University of New York.'
+title:               'Legal Research'
+tagline:             'Class notes taken by Sabina Pringle in Douglas Cox's 1L PT legal research class, Spring 2021, at CUNY School of Law'
+description:         'Reading notes and notes taken in class.'
 url:                 'https://github.com/binipringle'
-baseurl:             '/dh-in-prison'
+baseurl:             '/legalresearch'
 
 # About/contact
 author:
