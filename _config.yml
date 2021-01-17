@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               'DH in Prison'
+title:               'Legal Research'
 tagline:             'Class notes taken by Sabina Pringle in Douglas Cox's 1L PT legal research class, Spring 2021, at CUNY School of Law'
 description:         'Reading notes and notes taken in class.'
 url:                 'https://github.com/binipringle'
-baseurl:             '/legalresearch'
+baseurl:             '/dh-in-prison'
 
 # About/contact
 author:
