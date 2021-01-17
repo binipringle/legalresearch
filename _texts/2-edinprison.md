@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 2. Education in Prison
+title: Section Three
 author:
 editor: Sabina Pringle
 rights:

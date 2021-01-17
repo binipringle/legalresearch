@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 1. Introduction
+title: Section Two
 author:
 editor: Sabina Pringle
 source: Capstone project, MA in Digital Humanities, The Graduate Center - CUNY

@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 5. Minimal computing
+title: Section Six
 author:
 editor: Sabina Pringle
 rights:

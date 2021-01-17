@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 3. Environmental Scan
+title: Section Four
 author:
 editor: Sabina Pringle
 rights:
