@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 8. Conclusion
+title: Section Nine
 author:
 editor: Sabina Pringle
 source: M.A. in Digital Humanities capstone project. The Graduate Center - CUNY. May 2020

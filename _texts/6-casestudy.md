@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: 6. P2CP at Otisville - a Case Study and Possible Proposal
+title: Section Seven
 author:
 editor: Sabina Pringle
 rights:
