@@ -21,7 +21,7 @@ Usually the irresistible urge will be to go to Westlaw. There used to be a libra
 
 One of the few books on criminal law in New York includes a discussion of whether a statement made by the defendant on the witness stand that is different from a statement that was suppressed because it wasn't mirandaized and another that was coerced would be admissable - impeachable.
 
- 
+What does it mean that the statement is impeachable?  
 
 # Government power and the Law
 
@@ -40,7 +40,15 @@ Some matters fall exclusively under federal federal law and others under state l
 
 # Understanding legal authority
 
+Map: (1) U.S. Constitution
+
+- Article 1 legislative branch - (2) statutes // codes
+- Article 2 executive branch - (3) regulations
+- Article 3 judicial branch - (4) case law
+
 ## 1. Sources of authority
+
+Think of judges as snobbish, cowardly, lazy
 
 **a. Primary sources**
 
@@ -59,6 +67,10 @@ In order for a law to be binding, it must be considered mandatory authority in t
 **a. Mandatory authority**
 
 - statutes, administrative law, cases
+
+*ideal* case law
+
+mandatory precedent - with similar facts - that is still good law - with good legal reasoning - that is often cited - and is relatively recent 
 
 **b. Persuasive authority**
 
