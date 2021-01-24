@@ -32,8 +32,6 @@ What does it mean that the statement is impeachable?
 
 # Federal and State jurisdictions
 
-Some matters fall exclusively under federal federal law and others under state law.
-
 - Federal courts have jurisdiction over any issue involving a federal statute, a treaty, or the U.S. Constitution.
 - State governments control torts, contracts, family law and other cases.
 - In some areas, such as environmental law, tax law, and labor law, both federal and state laws could apply, sometimes giving the party initiating the lawsuit a choice of whether to file the case in a Federal or state court system.
@@ -70,7 +68,7 @@ In order for a law to be binding, it must be considered mandatory authority in t
 
 *ideal* case law
 
-mandatory precedent - with similar facts - that is still good law - with good legal reasoning - that is often cited - and is relatively recent 
+mandatory precedent - with similar facts - that is still good law - with good legal reasoning - that is often cited - and is relatively recent
 
 **b. Persuasive authority**
 
@@ -117,9 +115,9 @@ If there are is more than one opinion, one of the opinions is controlling, and o
 
 ## 4. Updating Legal Sources
 
-An important theme throughout the process of legal research is updating the sources you find to make sure the law you are relying on is still current. As you learn more about the different types of legal sources discussed in later chapters, you will learn how to determine whether each source you are looking at reflects the current status of the law and which sources can no longer be relied on or should only be used with caution.
+Update sources to make sure the law is still current. Determine whether each source reflects the current status of the law and which sources can no longer be relied on or should only be used with caution.
 
 **D. The Federal Court System**
 
-1. Trial Courts are called the United States District Courts. There are 94 Federal district courts, with at least one in every state as well as the District of Columbia and in certain United States Territories. In more populous states there are several Federal district courts covering different geographic regions. For example, New York has four separate Federal district courts serving different geographical regions of the state: Northern, Southern, Eastern and Western. Each Federal district also has a separate bankruptcy court, and there are additional federal subject specific trial courts for tax, international trade, and claims against the government that have nationwide jurisdiction.
+1. Trial Courts are called the United States District Courts. 94 Federal district courts; at least one in every state as well as the District of Columbia and in certain United States Territories. In more populous states there are several Federal district courts covering different geographic regions. For example, New York has four separate Federal district courts serving different geographical regions of the state: Northern, Southern, Eastern and Western. Each Federal district also has a separate bankruptcy court, and there are additional federal subject specific trial courts for tax, international trade, and claims against the government that have nationwide jurisdiction.
 2. Intermediate-Level Courts: intermediate-level appellate courts are divided into separate circuits. In the Federal system, the district courts located in each circuit are only bound to follow the decisions of the U.S. Supreme Court and the Circuit Court of Appeals for their particular circuit. For example, Federal district courts in New York appeal to the 2d Circuit Court of Appeals, so decisions from that higher court are binding on them. However, Federal district courts in New York are not bound by decisions of the 11th Circuit Court of Appeals or any other circuit court besides the 2d. As a result, 11th Circuit
