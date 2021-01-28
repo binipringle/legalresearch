@@ -17,7 +17,7 @@ Rule 1: go to the Library
 
 Sometimes a smaller library is good. It's good to have an understanding of books. A public interest law firm will have books specific to its area.
 
-Usually the irresistible urge will be to go to Westlaw. There used to be a librarian at Fordham who called Westlaw "the white box of death." Doug calls it a hot tub full of your friends.
+Usually the irresistible urge will be to go to Westlaw. There used to be a librarian at Fordham who called Westlaw "the white box of death." Another law librarian called it a hot tub full of friends (cronies).
 
 One of the few books on criminal law in New York includes a discussion of whether a statement made by the defendant on the witness stand that is different from a statement that was suppressed because it wasn't mirandaized and another that was coerced would be admissable - impeachable.
 
