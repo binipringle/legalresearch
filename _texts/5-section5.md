@@ -9,7 +9,9 @@ toc:
 
 ---
 
-This is a footnote.[^11]
+This is a footnote[^11].  
+
+
 [^11]: What a cool footnote.
 
 ___

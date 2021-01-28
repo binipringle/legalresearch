@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: Authorities
+title: Outline
 author:
 editor: Sabina Pringle
 source: Progressive Legal Research by Jonathan Saxon, CUNY School of Law Library
@@ -83,7 +83,7 @@ Courts have discretion to consider non-mandatory primary and secondary sources a
 
 **a. Precedent: stare decisis**
 
-- deciding cases in accordance with established precedent lends predictability and stability to the law and society, and enables people their actions with some degree of confidence that legal disputes will be handled fairly by the courts.
+- deciding cases in accordance with established precedent lends predictability and stability to the law and society, and provides some degree of confidence that legal disputes will be handled fairly by the courts.
 
 **b. Court system structure**
 
@@ -105,12 +105,11 @@ Only the text in the opinion section of the case document contains the law. Some
 
 **ii. Majority, Concurring, Plurality, and Dissenting Opinions**
 
-Most cases contain a single written opinion that constitutes the court’s decision, but appellate cases are usually decided by more than one judge. If there’s disagreement among them regarding the outcome or the reasoning there will be more than one opinion written.
-If there are is more than one opinion, one of the opinions is controlling, and only it will hold mandatory authority in the court’s jurisdiction.
+Most cases contain a single written opinion that constitutes the court’s decision, but appellate cases are usually decided by more than one judge. If there’s disagreement among them regarding the outcome or the reasoning there will be more than one opinion written. If there's more than one opinion, one of these is controlling.
 
-- The **majority opinion** is always the one that more than half of the judges deciding the case have signed onto. It’s also referred to as the opinion of the court. When a majority opinion exists, it is controlling and constitutes the law. The majority opinion will appear before any other opinions included in the case document.
-- **Concurring opinions** agree with the outcome of a case, but they do so for different reasons. When there is a majority opinion in a case, the concurring opinion cannot be considered mandatory because the rationale of a concurring opinion differs in some way from the majority. However, a concurring opinion can sometimes be considered to hold mandatory authority when no opinion has the support of a majority of the judges, as explained in the next paragraph on plurality opinions.
-- **Plurality opinions** exist in cases where the majority of judges agree on the outcome of the case but no opinion has the support of the majority. In other words, although a majority of judges concur in the outcome, they don’t agree on the reasons for it. *In this situation, the opinion in favor of the winning party that has the most support among the judges is the plurality opinion.* However, the plurality opinion is not automatically the controlling one. The U.S. Supreme Court stated in Marks v. United States that when no opinion has the support of the majority, the controlling opinion will be the one that decided the issue on the narrowest grounds. This means where there is no majority opinion, a concurring opinion could be considered controlling if it fits the Supreme Court’s criteria better than the plurality opinion. Interpreting this rule has created some confusion in later cases, but you should be aware that *when there is no majority opinion in a case you want to use you will have to do additional research to determine whether the plurality or a concurring opinion is controlling.*
+- The **majority opinion** is always the one that more than half of the judges deciding the case have signed onto. When a majority opinion exists, it is controlling and constitutes the law. The majority opinion will appear before any other opinions included in the case document.
+- **Concurring opinions** agree with the outcome of a case, but they do so for different reasons. When there is a majority opinion in a case, the concurring opinion cannot be considered mandatory because the rationale of a concurring opinion differs in some way from the majority. However, a concurring opinion can sometimes be considered to hold mandatory authority when no opinion has the support of a majority of the judges.
+- **Plurality opinions** exist in cases where the majority of judges agree on the outcome of the case but no opinion has the support of the majority. In other words, although a majority of judges concur in the outcome, they don’t agree on the reasons for it. *In this situation, the opinion in favor of the winning party that has the most support among the judges is the plurality opinion.* However, the plurality opinion is not automatically the controlling one. The U.S. Supreme Court stated in Marks v. United States that when no opinion has the support of the majority, the controlling opinion will be the one that decided the issue on the narrowest grounds. TWhere there is no majority opinion, a concurring opinion could be considered controlling if it fits the Supreme Court’s criteria better than the plurality opinion. Interpreting this rule has created some confusion in later cases; *when there is no majority opinion in a case I want to use I will have to do additional research to determine whether the plurality or a concurring opinion is controlling.*
 - **Dissenting opinions** are never considered mandatory as they disagree with the outcome of the case, either in whole or in part. However, sometimes a dissent proposes changes in the law or contains an insightful analysis that can be used persuasively in later cases to challenge established precedent.
 
 ## 4. Updating Legal Sources
@@ -119,5 +118,5 @@ Update sources to make sure the law is still current. Determine whether each sou
 
 **D. The Federal Court System**
 
-1. Trial Courts are called the United States District Courts. 94 Federal district courts; at least one in every state as well as the District of Columbia and in certain United States Territories. In more populous states there are several Federal district courts covering different geographic regions. For example, New York has four separate Federal district courts serving different geographical regions of the state: Northern, Southern, Eastern and Western. Each Federal district also has a separate bankruptcy court, and there are additional federal subject specific trial courts for tax, international trade, and claims against the government that have nationwide jurisdiction.
-2. Intermediate-Level Courts: intermediate-level appellate courts are divided into separate circuits. In the Federal system, the district courts located in each circuit are only bound to follow the decisions of the U.S. Supreme Court and the Circuit Court of Appeals for their particular circuit. For example, Federal district courts in New York appeal to the 2d Circuit Court of Appeals, so decisions from that higher court are binding on them. However, Federal district courts in New York are not bound by decisions of the 11th Circuit Court of Appeals or any other circuit court besides the 2d. As a result, 11th Circuit
+1. Trial Courts are called the United States District Courts. 94 Federal district courts; at least one in every state as well as the District of Columbia and in certain United States Territories. In more populous states there are several Federal district courts covering different geographic regions.
+2. Intermediate-Level Courts: intermediate-level appellate courts are divided into separate circuits. In the Federal system, the district courts located in each circuit are only bound to follow the decisions of the U.S. Supreme Court and the Circuit Court of Appeals for their particular circuit. For example, Federal district courts in New York appeal to the 2d Circuit Court of Appeals, so decisions from that higher court are binding on them. However, Federal district courts in New York are not bound by decisions of the 11th Circuit Court of Appeals or any other circuit court besides the 2d.
