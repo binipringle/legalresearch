@@ -46,8 +46,6 @@ Map: (1) U.S. Constitution
 
 ## 1. Sources of authority
 
-Think of judges as snobbish, cowardly, lazy
-
 **a. Primary sources**
 
 - statutes enacted by the legislature;
