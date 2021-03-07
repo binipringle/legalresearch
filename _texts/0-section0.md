@@ -118,3 +118,189 @@ Update sources to make sure the law is still current. Determine whether each sou
 
 1. Trial Courts are called the United States District Courts. 94 Federal district courts; at least one in every state as well as the District of Columbia and in certain United States Territories. In more populous states there are several Federal district courts covering different geographic regions.
 2. Intermediate-Level Courts: intermediate-level appellate courts are divided into separate circuits. In the Federal system, the district courts located in each circuit are only bound to follow the decisions of the U.S. Supreme Court and the Circuit Court of Appeals for their particular circuit. For example, Federal district courts in New York appeal to the 2d Circuit Court of Appeals, so decisions from that higher court are binding on them. However, Federal district courts in New York are not bound by decisions of the 11th Circuit Court of Appeals or any other circuit court besides the 2d.
+
+---
+
+2/4/21
+
+## Secondary sources
+
+Squishy words:
+
+- It depends
+- likely
+- unlikely
+
+First place we all go is Google. (I got term "warrrabtt if habitability")
+
+Second place we go to is the library
+
+Westlaw Edge - Library
+
+Go to secondary sources in the first placce and see whhat on shelf
+
+Seccondary sources > new york > topic > real property
+
+only 17 things on the shelf. It's a shelf of books. Tricky thiing is we don't know how biig those books are. Some might be multivolume. We open one of the books and get an elecctronic table of contents. Found chapter on warranty of habitability. Found lots of secctions in this chapter. Found "rent abatement." Back to shelf. After some browsing I get to a statute. I always want to go to the annotated version of the statute.
+
+Reading secondary sources take us to statutes which ttake us to cases which take us back to secondary sources andd around and around.
+
+Wrong way: random terms. Dive into the first case Westlaw turns up. Dive into other cases. Go down a rabbit hole.
+
+## Types of secondary sources
+
+Something and "Commentary"
+
+- Treatises // Practitioner Sources
+- Encyclopedias
+- Law Review Articles
+
+Encyclopedias provide an overview of the area of the law and may contain citations to some ccases and statutes. NOT where you go for very up-to-date information Amerrican jurispudence is the national one - very broad - new york jurisprudence is a little less broad and updated a little more frequently; still very general. Good but not greatt. What I really want is a treatise. A treatise provides in-deptth diiscussion on a particular legal topic anddd is often writtten by legal scholars. Practitionerr sourcces are a little more specific in tterms of what ccan be useful tto a pracctitiioner. In depth analysis of particular area of law wiith citations to cases, statutes, regulaattions; practiccal suggestions and tips (love tips); forms
+
+ALR: American Law Reports (another beast)
+
+Westlaw gives you suggestions (if you like this you might also like this). Westlaw often suggests ALR. ALR is often very good for very specific issues. Lots of citations. But, just like with encyclopedias, ALR is not always up to date.
+
+Law Review articles
+
+When I'm doing research on a specific topic I should filter these out because they're largely academic. Professors critiquing the law and saying what it should be. Law reviews are usually structured similarly. Section two is usually background and therefore useful. When new or changing topic can be useful. Law Review articcles can be useful forr classes where you are writing about a theorrettical topic. Problem in thhose clsses is often people don't do much research. Law Review articles are good for this. Westlaw and Lexis are good to find recent law review articles. Only go back to thhe 90s. For older law review articcles use HEIN Online.
+
+**HEIN Online**
+
+Nice obsession with footnotes. HEIN is mostly PDFs so footnotes are in bottom of page.
+
+Is failing to register as a sex offender a strict liabiility crime
+
+---
+
+Assignment 2 highlights after the fact
+
+- we used a more formed issue
+- choosing jurisdiction is crucial
+- these are the types we see:
+- 1. book by Judge Bogle (treatise) (good, I want this) (I go to cases in book and see what courts are - whether persuasive)
+- 2. What is this? Pretty broad - a treatise - charges to the jury (may not be super updated)
+- 3. ALR (seems to be highly relevant, and it is; the tricky thing with ALR is that they apply to all states; they're doing a whole survey; but you can filter by state in the sidebar; when we do this here we don't really find pertinent results in New York)
+- 5. New York Jurisprudence (this is a bit misleading but it's really good; takes us to People v. Haddock)
+- 6. Boston Law Review (law reviews are tricky because theoretical and often broad in scope; here the question of constitutionality can be pertinent)
+- 9. Cites People v. Haddock again. Also cites People v. Pattterson and the other.
+
+Go into McKinney's law - go to toc - toc is the "statutory scheme"
+
+We might want to go here to find specific words and to put what we're looking at the statutory scheme.
+
+Go to notes of decision to find annotations by lawyers  
+
+Go to citing references to see everywhere in the whole system in Westlaw where it is cited. Beautiful thing.
+
+Lexis+ does this too. In Lexis+ it's called shepherd.
+
+We want to admit that the algorithm in Westlaw and Lexis+ has improved tremendously over the years.
+
+I can peek at cases.
+
+Then, circle back to our discussion on first day of class. Pizza box.
+
+Court of Appeals
+
+| 1st Dep | 2nd Dep | 3rd Dep | 4th Dep |
+
+| Patterson, Manson (not persuasive) | | People v. Haddock Court of appeals | |
+
+This goes back to Mountain View. There is some authority that if my department hasn't talked but another department has that a court of appeals decision in another department is authoritative and 1st Department should be mandatory authority for the 3rd Department.
+
+Rule 1: go to the library (secondary sources)
+
+Rule 0.25: pen and paper
+
+Rule 0.5: what is the deliverable? (lawyers are in the delivery business) (the only thing worse than turning up with a 40-page memo when all they wanted was a brief email is turning up with a brief summary when they wanted a 40-page memo)
+
+Rule 0.75: where should I begin?
+
+Look again at the legal research mini-playbook
+
+STATUTORY RESEARCH
+
+Most research is statutory
+
+legislative history saved my ass
+
+If statute involved in research, locate it first and use annotated statutte
+
+annottations to relevant case law, secondary sourcces, ccross references etttc. are "pure gold"
+
+---
+
+The Legislative Process
+
+- statutes are firstt proposed as bills in the legislature
+- bills must pass through an involved legislative process bbefoe bbecocming statutes - most bills directly
+- more stuff - see slides
+
+On the Federal side when a bill makes it it beccomes public law. On state side when a bill maakes it it becomes chapter law
+
+federal laws
+
+bills become slip laws (assiigned "public law" numbers)
+
+collection of slip laws ffor a particuclar ocngress = sessiion laws. cchronological = these are statutes at large
+
+session laws compiled into a subjectt area arrangement are then known as a code
+
+bills > publicc law > code
+
+end of statutory text in code will give you PL number andd cite to statutes at large
+
+all subsequent entries are amendments
+
+UNITED STATES CODE ARRANGEMENT
+
+U.S. Code is arranged by "titles"
+
+Each title covers a speciffic area of law
+
+examples: title 8: immigration ...
+
+List of U.S. Code Titles (see slide)
+
+New York Statutes
+
+like federal law in process, but different names
+sessiion laws are called "chapters"
+
+codified into McKinney's/CLS
+
+Citation at the end of the statutory text: L. 1999, c. 255 = Legislative year/session 1999; 255th law passed
+
+New York Statues (list in slides) - law in NY organiized by area of law
+
+Hard copy publication sourcces for statutes in Federal & NY systems
+
+| 1. Slip Law | (see slide) |
+
+**Finding statutes**
+
+1. citation
+2. popular name (sometimes practitioners refer to in a way)
+3. cases/secondary sources
+4. index
+5. table of contents/statutory scheme
+6. full text searching
+
+---
+
+Assignment 3
+
+Experience looking at a statute and navigate one. Use Lexis.
+
+enter statute
+
+full text of statute > scroll down to History - see how many times amended - shepherds tells us there is pending legislation
+
+Instead of tabs like Westlaw, Lexis has dropdowns
+
+statutory scheme: pull out large section
+
+Shepardize: takes you to another screen where all citations witthin Lexis system.
+
+Look at text of statute; look around, get bearings, see what I see.  
