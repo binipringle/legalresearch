@@ -11,64 +11,57 @@ toc:
 
 ---
 
-First day of class
-
-Rule 1: go to the Library
-
-Sometimes a smaller library is good. It's good to have an understanding of books. A public interest law firm will have books specific to its area.
-
-Usually the irresistible urge will be to go to Westlaw. There used to be a librarian at Fordham who called Westlaw "the white box of death." Another law librarian called it a hot tub full of friends (cronies).
-
-One of the few books on criminal law in New York includes a discussion of whether a statement made by the defendant on the witness stand that is different from a statement that was suppressed because it wasn't mirandaized and another that was coerced would be admissable - impeachable.
-
-What does it mean that the statement is impeachable?  
-
 # Government power and the Law
 
 - **statutes** are enacted by the legislative branch of government
-- **executive orders** and **Presidential proclamations** are issued by the executive branch of government (a.k.a. the administrative brance)
-- The executive branch includes specialized administrative agencies created through legislative statutes or executive orders. These specialized agencies can issue **regulations** that implement the policies and directives of Congress and the President.
-- **cases** are decided by the judicial branch of government. The courts apply law to facts to determine if laws were broken, and also determine the legality of statutes or regulations. Judicial opinions create law in areas not covered by statutes or regulations. Judge-created law is common law.
+- **executive orders** and **Presidential proclamations** are issued by the executive branch of government (a.k.a. the administrative branch) including specialized administrative agencies created through legislative statutes or executive orders. Specialized agencies can issue **regulations** that implement policies and directives of Congress and the President.
+- **cases** are decided by the judicial branch of government. Judicial opinions create law in areas not covered by statutes or regulations. Judge-created law is common law.
 
 # Federal and State jurisdictions
 
-- Federal courts have jurisdiction over any issue involving a federal statute, a treaty, or the U.S. Constitution.
-- State governments control torts, contracts, family law and other cases.
-- In some areas, such as environmental law, tax law, and labor law, both federal and state laws could apply, sometimes giving the party initiating the lawsuit a choice of whether to file the case in a Federal or state court system.
+- **Federal courts** have jurisdiction over any issue involving a federal statute, a treaty, or the U.S. Constitution.
+- **State governments** control torts, contracts, family law and other cases.
+- **Both federal and state laws** can apply to some areas such as environmental law, tax law, and labor law, sometimes giving the party initiating the lawsuit a choice of whether to file the case in a Federal or state court system.
 
 # Understanding legal authority
 
-Map: (1) U.S. Constitution
-
-- Article 1 legislative branch - (2) statutes // codes
-- Article 2 executive branch - (3) regulations
-- Article 3 judicial branch - (4) case law
+Map: (1) U.S. Constitution > (2) statutes / codes > (3) executive branch [executive orders, proclamations, regulations] > (4) judicial branch - case law
 
 ## 1. Sources of authority
 
-**a. Primary sources**
+### a. Primary sources**
 
 - statutes enacted by the legislature;
-- regulations and decisions of administrative agencies, as well as executive ordders and Presidential proclamations; and
+- regulations and decisions of administrative agencies, as well as executive orders and Presidential proclamations; and
 - court opinions written by the judiciary.
 
-**b. Secondary sources**
+### b. Secondary sources**
 
 - anything pertaining to the law that is not considered a primary source. Can be analysis of law, critique of law, explanation of legal strategy, legal practice tips and so on.
 
 ## 2. Weight of authority
 
-In order for a law to be binding, it must be considered mandatory authority in the jurisdiction where the case is brought.
+In order for a law to be binding, **it must be considered mandatory authority in the jurisdiction where the case is brought.**
 
-**a. Mandatory authority**
+### a. Mandatory authority
 
 - statutes, administrative law, cases
 
-*ideal* case law
+*ideal* case law:
 
-mandatory precedent - with similar facts - that is still good law - with good legal reasoning - that is often cited - and is relatively recent
+mandatory precedent
 
-**b. Persuasive authority**
+<p style="margin-left:10%; margin-right:10%;">with similar facts</p>
+
+<p style="margin-left:15%; margin-right:10%;">that is still good law</p>
+
+<p style="margin-left:20%; margin-right:10%;">with good legal reasoning</p>
+
+<p style="margin-left:25%; margin-right:10%;">that is often cited</p>
+
+<p style="margin-left:25%; margin-right:10%;">and is relatively recent.</p>
+
+### b. Persuasive authority**
 
 Courts have discretion to consider non-mandatory primary and secondary sources as persuasive authority. Sometimes primary law sources from another jurisdiction can be used persuasively. Secondary sources can sometimes be used persuasively too. Both can play a role in situations such as:
 
