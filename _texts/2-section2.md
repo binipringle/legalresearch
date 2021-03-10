@@ -37,8 +37,20 @@ Then, *read secondary sources > read secondary sources*
 
 Wherever I start, I go around and around:
 
+<p style="margin-left:20%; margin-right:10%;">read secondary sources</p>
+
+<p style="margin-left:5%; margin-right:10%;">read secondary sources                              go to annotated code</p>
+
+read case and find more                                         read case and find more
+
+<p style="margin-left:5%; margin-right:10%;">go to annotated code                              read secondary sources</p>
+
+<p style="margin-left:20%; margin-right:10%;">read secondary sources</p>
+
+To put it a different way,
+
 *start with secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources > go to annotated code > read case and find more > read secondary sources > read secondary sources > read secondary sources*
 
-I'm done when I start running into the same cases in all the different places. 
+I'm done when I start running into the same cases in all the different places.
 
 ---

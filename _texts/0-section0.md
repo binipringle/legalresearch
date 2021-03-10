@@ -90,7 +90,7 @@ The court system in a given jurisdiction affects which cases will hold mandatory
 
 ### c. Cases - which parts are considered binding
 
-Only the text in the opinion section of the case document contains the law. Sometimes more than one opinion is included in published cases and their precedential value is not equal.
+Only the text in the opinion contains the law. Sometimes more than one opinion is included in published cases and their precedential value is not equal.
 
 ### i. Holding versus Dictum
 
@@ -111,16 +111,16 @@ Most cases contain a single written opinion that constitutes the court’s decis
 
 Determine whether each source reflects the current status of the law and which sources can no longer be relied on or should only be used with caution.
 
-D. The Federal Court System**
+### D. The Federal Court System
 
-1. Trial Courts are called the United States District Courts. 94 Federal district courts; at least one in every state as well as the District of Columbia and in certain United States Territories. In more populous states there are several Federal district courts covering different geographic regions.
-2. Intermediate-Level Courts: intermediate-level appellate courts are divided into separate circuits. In the Federal system, the district courts located in each circuit are only bound to follow the decisions of the U.S. Supreme Court and the Circuit Court of Appeals for their particular circuit. For example, Federal district courts in New York appeal to the 2d Circuit Court of Appeals, so decisions from that higher court are binding on them. However, Federal district courts in New York are not bound by decisions of the 11th Circuit Court of Appeals or any other circuit court besides the 2d.
+1. **United States District Courts** are trial courts. There are 94 Federal district courts: at least one in every state (more in more populous states), some in District of Columbia and certain U.S. Territories.
+2. **Intermediate-Level Courts** are intermediate-level appellate courts. They are divided into separate circuits. **District courts located in each circuit are only bound to follow the decisions of the U.S. Supreme Court and the Circuit Court of Appeals for their particular circuit.** For example:
+
+- Federal district courts in New York appeal to the 2d Circuit Court of Appeals, so **decisions from the 2d Circuit Court of Appeals are binding on Federal district courts in New York**. However, Federal district courts in New York are not bound by decisions of the 11th Circuit Court of Appeals or any other circuit court besides the 2d.
 
 ---
 
-2/4/21
-
-## Secondary sources
+# Secondary sources
 
 Squishy words:
 
@@ -128,21 +128,11 @@ Squishy words:
 - likely
 - unlikely
 
-First place we all go is Google. (I got term "warrrabtt if habitability")
+First place we all go is Google to get terms (I got term "warranty of habitability"). Second place we go to is the library (for example, Westlaw Edge). There, go to secondary sources and see what on shelf *When searching remember to filter by jurisdiction>*
 
-Second place we go to is the library
+See [mini-playbook](https://binipringle.github.io/legalresearch/texts/2-section2/) for method of research.
 
-Westlaw Edge - Library
-
-Go to secondary sources in the first placce and see whhat on shelf
-
-Seccondary sources > new york > topic > real property
-
-only 17 things on the shelf. It's a shelf of books. Tricky thiing is we don't know how biig those books are. Some might be multivolume. We open one of the books and get an elecctronic table of contents. Found chapter on warranty of habitability. Found lots of secctions in this chapter. Found "rent abatement." Back to shelf. After some browsing I get to a statute. I always want to go to the annotated version of the statute.
-
-Reading secondary sources take us to statutes which ttake us to cases which take us back to secondary sources andd around and around.
-
-Wrong way: random terms. Dive into the first case Westlaw turns up. Dive into other cases. Go down a rabbit hole.
+Wrong way: random terms > dive into first case Westlaw returns > dive into other cases > down rabbit hole.
 
 ## Types of secondary sources
 
