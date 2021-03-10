@@ -20,6 +20,8 @@ U.S. Supreme Court | Final appellate court and highest federal court | United St
 Federal Circuit Court of Appeals | Federal intermediate appellate court | Federal Reporter | F. or F. 2d or F. 3d (unofficial - West; no official exists) |
 Federal District Court | Federal trial courts = courts of first instance in federal system (trials and hearings are conducted) | Federal Supplement | F. Supp or F. Supp 2d or F. Supp 3d (unofficial - West; no official exists) |
 
+---
+
 ## New York State Courts
 
 New York State Courts | Level | Reporters | Abbreviations |
