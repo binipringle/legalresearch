@@ -294,11 +294,10 @@ On the Federal side when a bill makes it, the bill becomes public law. On the st
 
 **Bills > Public Laws (P.L.) > Code** (end of statutory text in code will give you P.L. number and cite to *Statutes at Large*)
 
-**All subsequent entries are amendments** e.g. [STATUTORY TEXT would be here then at the bottom:]Pub. L. 103-322, 109 Stat. 1959, Pub. L. 104-294,110 Stat. 3506, Pub. L. 107-273, 116 Stat. 1806.[^0]   
-
-[^0]: [STATUTORY TEXT would be here then at the bottom:]Pub. L. 103-322, 109 Stat. 1959, Pub. L. 104-294,110 Stat. 3506, Pub. L. 107-273, 116 Stat. 1806. **So here the original law was Public Law 103-322 meaning it was the 322nd law passed by the 103rd Congress and it can be found at volume 109 of the Statutes at Large beginning on page 1959, then an amendment was passed that was Public Law 104-294, which lives at volume  110 of the Statutes at Large beginning on page 3506, etc.**
+**All subsequent entries are amendments** e.g. [STATUTORY TEXT would be here then at the bottom:]Pub. L. 103-322, 109 Stat. 1959, Pub. L. 104-294,110 Stat. 3506, Pub. L. 107-273, 116 Stat. 1806. (Here the original law was Public Law 103-322 meaning it was the 322nd law passed by the 103rd Congress and it can be found at volume 109 of the Statutes at Large beginning on page 1959, then an amendment was passed that was Public Law 104-294, which lives at volume  110 of the Statutes at Large beginning on page 3506, etc.)
 
 ---
+
 ## United States Code Arrangement
 
 - U.S. Code is arranged by "titles"
