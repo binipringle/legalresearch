@@ -9,6 +9,8 @@ toc:
 
 ---
 
+Adapted from Douglas Cox's [Mini Playbook](http://www.alr.legalresearch.nyc/playbook.pdf)
+
 I have nothing. *Start with secondary sources*
 
 1. read for background, context and to find statutes and cases

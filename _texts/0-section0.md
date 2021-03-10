@@ -3,7 +3,7 @@ layout: narrative
 title: Outline
 author:
 editor: Sabina Pringle
-source: Progressive Legal Research by Jonathan Saxon, CUNY School of Law Library
+source: Progressive Legal Research by Jonathan Saxon, CUNY School of Law Library, and lectures and class slides by Douglas Cox, CUNY School of Law
 toc:
 - Government power and the Law
 - Federal and State jurisdictions
@@ -26,7 +26,7 @@ toc:
 
 # Understanding legal authority
 
-Map: (1) U.S. Constitution > (2) statutes / codes > (3) executive branch [executive orders, proclamations, regulations] > (4) judicial branch - case law
+Map: (1) U.S. Constitution > Art. 1 legislative branch (2) statutes / codes > Art. 2 executive branch (3) regulations > Art. 3 judicial branch (4) judicial branch - case law
 
 ## 1. Sources of authority
 
@@ -113,32 +113,29 @@ Determine whether each source reflects the current status of the law and which s
 
 ### D. The Federal Court System
 
-1. **United States District Courts** are trial courts. There are 94 Federal district courts: at least one in every state (more in more populous states), some in District of Columbia and certain U.S. Territories.
-2. **Intermediate-Level Courts** are intermediate-level appellate courts. They are divided into separate circuits. **District courts located in each circuit are only bound to follow the decisions of the U.S. Supreme Court and the Circuit Court of Appeals for their particular circuit.** For example:
-
-- Federal district courts in New York appeal to the 2d Circuit Court of Appeals, so **decisions from the 2d Circuit Court of Appeals are binding on Federal district courts in New York**. However, Federal district courts in New York are not bound by decisions of the 11th Circuit Court of Appeals or any other circuit court besides the 2d.
-
-- Trial courts are only bound to follow the decisions of the Circuit court in their jurisdiction (for example, decisions of the Federal Circuit Court of Appeals 1st Circuit are mandatory authority for District Courts in the 1st Circuit, but not for District Courts in any other circuit).
+- **U.S. Supreme Court**
+- **1st, 2nd, 3rd, ... 11th + D.C. & Federal Circuit Courts of Appeals (13)** are intermediate-level appellate courts. They are divided into separate circuits.
+- **U.S. District Courts (94)** are trial courts. At least one in every state (more in more populous states), some in District of Columbia and certain U.S. Territories. *District courts located in each circuit are only bound to follow the decisions of the U.S. Supreme Court and the Circuit Court of Appeals for their particular circuit.* For example, Federal district courts in New York appeal to the 2d Circuit Court of Appeals, so *decisions from the 2d Circuit Court of Appeals are binding on Federal district courts in New York*. However, Federal district courts in New York are not bound by decisions of the 11th Circuit Court of Appeals or any other circuit court besides the 2d. For example, decisions of the Federal Circuit Court of Appeals 1st Circuit are mandatory authority for District Courts in the 1st Circuit, but not for District Courts in any other circuit.
 
 ### E. The New York State Legal System and Sources of Law
 
-1. **The Legislative Branch:** Senate and Assembly. Legislation passed by both chambers and not vetoed by governor becomes part of the NYS statutes.
-
-2. **The Executive Branch:** Governor presiding over administrative agencies (usually created by the legislature) which create and enforce New York state regulations.
-
-3. **The Judicial Branch:**
+1. **Legislative branch:** Senate and Assembly. Legislation passed by both chambers and not vetoed by governor becomes part of the NYS statutes.
+2. **Executive branch:** Governor presiding over administrative agencies (usually created by the legislature) which create and enforce New York state regulations.
+3. **Judicial branch:**
 
 ### a. Court System Structure
 
-differs from the federal system in important ways, such as different types of trial courts,  civil and criminal court systems.
+Differs from the federal system in important ways, such as different types of trial courts,  civil and criminal court systems.
 
-### i. Trial courts
+- **New York Court of Appeals**
+- **Appellate Divisions - 1st, 2nd 3rd, 4th Departments**
+- **New York Supreme Courts (trial courts)**
 
-Much more complicated than federal system. N.Y. Family Court, N.Y. Surrogate's Court, N.Y. Supreme Court *and others.* Other minor courts in certain counties. **N.Y. state trial level courts have no binding authority on each other.**
+The highest court in New York is the **New York Court of Appeals.**
 
-### ii. Intermediate-Appellate Courts
+Intermediate-Appellate Courts are **N.Y. Supreme Court, Appellate Division** is referred to as the **Appellate Division** and is divided into **four geographic departments.**
 
-**N.Y. Supreme Court, Appellate Division** is referred to as the **Appellate Division** and is divided into **four geographic departments.**
+Trial courts are much more complicated than in the federal system. N.Y. Family Court, N.Y. Surrogate's Court, N.Y. Supreme Court *and others.* Other minor courts in certain counties. **N.Y. state trial level courts have no binding authority on each other.**
 
 #### New York State Jurisdictional Subdivisions
 
@@ -166,9 +163,7 @@ in the Second Department and continues to be cited as authority and followed.
 
 Some trial courts in the First Department have not followed Mountain View and view the Appellate Division Departments as separate courts, similar to the Federal Circuit Courts of Appeals. There has been no explicit ruling on the matter by the New York Court of Appeals to resolve this inconsistency.
 
-New York Appellate Division jurisdiction is often a source of confusion, so here is an
-easier way to look at which appellate court decisions trial courts in New York will
-consider binding authority:
+New York appellate court decisions trial courts in New York will consider binding authority:
 
 - Decisions from the Appellate Division court in your department are always
 considered mandatory; additionally,
@@ -213,6 +208,7 @@ Wrong way: random terms > dive into first case Westlaw returns > dive into other
 
 Something and "Commentary"
 
+- Restatements
 - Treatises / Practitioner Sources
 - Encyclopedias
 - Law Review Articles
@@ -252,7 +248,9 @@ Assignment 2 highlights after the fact (is failing to register as a sex offender
 7. I can peek at cases.
 8. Then, circle back to our discussion on first day of class. **Pizza box.**
 
-### Court of Appeals
+---
+
+### N.Y. Court of Appeals
 
 1st Dep | 2nd Dep | 3rd Dep | 4th Dep |
 Patterson, Manson (not persuasive) | ------- | People v. Haddock Court of appeals | ------- |
@@ -264,7 +262,7 @@ This goes back to Mountain View. There is some authority that if my department h
 3. Rule 0.5: what is the deliverable? (lawyers are in the delivery business)
 4. Rule 0.75: where should I begin?
 
-Look again at the legal research mini-playbook
+Look again at the legal research [Mini Playbook](http://www.alr.legalresearch.nyc/playbook.pdf)
 
 ---
 
@@ -369,31 +367,29 @@ N.Y. Soc. Serv. Law § 363[^9]
 
 28 U.S.C. § 1920[^10]
 
-REGULATIONS
-NEW YORK
-N.Y. Comp. Codes R. & Regs. tit. 18, § 351.2 (if citing a section)
-N.Y. Comp. Codes R. & Regs. tit. 18, pt. 351 (if citing a part)
-FEDERAL
-29 C.F.R. § 825.104 (if citing a section)
-29 C.F.R. pt. 825 (if citing a part)
-58 Fed. Reg. 13394 (Mar. 10, 1993) (if citing proposed or final rules in Fed. Reg).
-SECONDARY SOURCES
-Legal Encyclopedia. 22 N.Y. Jur. 2d Contracts § 54 (2020).
-Treatises / Practice Guides. Author’s full name, title, section symbol (if applicable), section
-number or page number and then edition (if applicable) and year in parenthesis. If online,
-check currentness and use that year.
-David D. Siegel, New York Practice § 134 (5th ed. 2019).
-21 Charles Allen Wright & Arthur R. Miller, Federal Practice and Procedure § 1006
-(2020.
-Law review articles & A.L.R. annotations. Author, title, volume, journal (abbreviations at
-T.13), first page, pinpoint page, year in parentheses.
-Jeffrey L. Kirchmeier, Dead Innocent: The Death Penalty Abolitionist Search for a
-Wrongful Execution, 42 Tulsa L. Rev. 403, 407 (2006).
-Richard Joslyn, Annotation, Proximate Cause: Liability of Tortfeasor for Injured
-Person's Subsequent Injury or Reinjury, 31 A.L.R.3d 1000 (1970).
-OTHER
-When quoting from any source, use quotation marks and provide citation “so that readers
-may identify and find those authorities for future research.” Rule 1 of the Bluebook.
+N.Y. Comp. Codes R. & Regs. tit. 18, § 351.2[^11]
+
+N.Y. Comp. Codes R. & Regs. tit. 18, pt. 351[^12]
+
+29 C.F.R. § 825.104[^13]
+
+29 C.F.R. pt. 825[^14]
+
+58 Fed. Reg. 13394 (Mar. 10, 1993)[^15]
+
+*Legal Encyclopedia.* 22 N.Y. Jur. 2d Contracts § 54 (2020)[^16]
+
+David D. Siegel, *New York Practice* § 134 (5th ed. 2019)[^17]
+
+21 Charles Allen Wright & Arthur R. Miller, *Federal Practice and Procedure* § 1006
+(2020)[^18]
+
+Jeffrey L. Kirchmeier, *Dead Innocent: The Death Penalty Abolitionist Search for a Wrongful Execution,* 42 Tulsa L. Rev. 403, 407 (2006)[^19]
+
+Richard Joslyn, Annotation, *Proximate Cause: Liability of Tortfeasor for Injured Person's Subsequent Injury or Reinjury,* 31 A.L.R.3d 1000 (1970)[^20]
+
+Note: When quoting from any source, use quotation marks and provide citation “so that readers
+may identify and find those authorities for future research.” **Rule 1 of the Bluebook.**
 
 [^1]: This is a New York case cited New York style
 [^2]: This is a New York case cited New York style
@@ -405,3 +401,14 @@ may identify and find those authorities for future research.” Rule 1 of the Bl
 [^8]: New York statute
 [^9]: New York statute
 [^10]: Federal: section of the United States Code
+[^11]: Regulations, New York (if citing a section)
+[^12]: Regulations, New York (if citing a part)
+[^13]: Regulations, Federal (if citing a section)
+[^14]: Regulations, Federal  (if citing a part)
+[^15]: Regulations, Federal (if citing proposed or final rules in Fed. Reg)
+[^16]: Encyclopedia (secondary source)
+[^17]: Treatise / Practice Guide. Author’s full name, title, section symbol (if applicable), section number or page number and then edition (if applicable) and year in parenthesis. If online, check currentness and use that year.
+[^18]: Treatise / Practice Guide. Author’s full name, title, section symbol (if applicable), section number or page number and then edition (if applicable) and year in parenthesis. If online, check currentness and use that year.
+[^19]: Law review article. Author, title, volume, journal (abbreviations at T.13), first page, pinpoint page, year in parentheses.
+[^20]: A.L.R. annotation. Author, title, volume, journal (abbreviations at
+T.13), first page, pinpoint page, year in parentheses.
