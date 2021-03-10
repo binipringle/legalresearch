@@ -5,41 +5,6 @@ author:
 editor: Sabina Pringle
 source: Progressive Legal Research by Jonathan Saxon, CUNY School of Law Library, and lectures and class slides by Douglas Cox, CUNY School of Law
 toc:
-- Government power and the Law
-- Federal and State jurisdictions
-- Understanding legal authority
--	Sources of authority
--	Primary sources
--	Secondary sources
--	Weight of authority
--	Mandatory authority
--	Ideal case law
--	Persuasive authority
--	Case authority - additional considerations
--	Precedent - stare decisis
--	Court system structure
--	Cases - which parts are considered binding
--	Holding versus Dictum
--	Majority, Concurring, Plurality, and Dissenting Opinions
--	Updating Legal Sources
--	The Federal Court System
--	The New York State Legal System and Sources of Law
--	Court System Structure
--	New York State Jurisdictional Subdivisions
--	Authority in New York State Courts
--	Mountain View (N.Y. Court of Appeals)
--	The Legal Research Plan
--	Secondary sources
--	Types of secondary sources
--	Statutory Research
--	The Legislative Process
--	Federal laws
--	United States Code Arrangement
--	New York Statutes
--	Hard copy publication sources for statutes in Federal and NY systems
--	Finding statutes
--	Lexis
--	Practice
 
 ---
 
