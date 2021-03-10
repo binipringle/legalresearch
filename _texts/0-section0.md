@@ -270,52 +270,62 @@ Look again at the legal research [Mini Playbook](http://www.alr.legalresearch.ny
 
 Most research is statutory. If statute involved in research, locate it first and **use annotated statute**. Annotations to relevant case law, secondary sources, cross references etc. are "pure gold."
 
+---
+
 ## The Legislative Process
 
-- statutes are first proposed as bills in the legislature
-- bills must pass through an involved legislative process before becoming statutes - most bills directly
-- more stuff - see slides
+- Statutes are first proposed as bills in the legislature.
+- Bills must pass through an involved legislative process before becoming statutes - most bills never make it.
+- In this process, many documents may be generated. These become part of the bill's legislative history.
+- These documents can include committee reports, hearings, the *Congressional Record* (reported debates and floor action), amended versions of bill, related bills.  
 
-On the Federal side when a bill makes it it beccomes public law. On state side when a bill maakes it it becomes chapter law
+On the Federal side when a bill makes it, the bill becomes public law. On the state side, when a bill makes it, the bill becomes chapter law.
 
-federal laws
+---
 
-bills become slip laws (assiigned "public law" numbers)
+### Federal laws
 
-collection of slip laws ffor a particuclar ocngress = sessiion laws. cchronological = these are statutes at large
+- Bills become slip laws (assigned "public law" numbers)
 
-session laws compiled into a subjectt area arrangement are then known as a code
+- Collection of slip laws for a particular congress are **session laws**
+- **Session laws** go in *chronological order* and are collected in **Statutes at Large (Stat.)**
+- **Statutes at Large (Stat.)** are collections of **session laws.**
+- **Session laws** compiled into a *subject area arrangement* are a **code*
 
-bills > publicc law > code
+**Bills > Public Laws (P.L.) > Code** (end of statutory text in code will give you P.L. number and cite to *Statutes at Large*)
 
-end of statutory text in code will give you PL number andd cite to statutes at large
+**All subsequent entries are amendments** e.g. [STATUTORY TEXT would be here then at the bottom:]Pub. L. 103-322, 109 Stat. 1959, Pub. L. 104-294,110 Stat. 3506, Pub. L. 107-273, 116 Stat. 1806.[^0]   
 
-all subsequent entries are amendments
+[^0]: [STATUTORY TEXT would be here then at the bottom:]Pub. L. 103-322, 109 Stat. 1959, Pub. L. 104-294,110 Stat. 3506, Pub. L. 107-273, 116 Stat. 1806. **So here the original law was Public Law 103-322 meaning it was the 322nd law passed by the 103rd Congress and it can be found at volume 109 of the Statutes at Large beginning on page 1959, then an amendment was passed that was Public Law 104-294, which lives at volume  110 of the Statutes at Large beginning on page 3506, etc.**
 
-UNITED STATES CODE ARRANGEMENT
+---
+## United States Code Arrangement
 
-U.S. Code is arranged by "titles"
+- U.S. Code is arranged by "titles"
+- Each title covers a specific area of law
+- Examples:
+- Title 8 = Aliens and Nationality
+- Title 28 = Judiciary and Judicial Procedure
+- Title 42 = The Public Health and Welfare
 
-Each title covers a speciffic area of law
+---
 
-examples: title 8: immigration ...
+## New York Statutes
 
-List of U.S. Code Titles (see slide)
+- Like federal law in process but different names
+- Session laws are called **"chapters"** > codified into **McKinney's/CLS**
+- Citation at the end of the statutory text: L. 1999, c. 255 (legislative year/session 1999; 255th law passed)   
 
-New York Statutes
+Law in New York organized by area of law
 
-like federal law in process, but different names
-sessiion laws are called "chapters"
+### Hard copy publication sources for statutes in Federal & N.Y. systems
 
-codified into McKinney's/CLS
+--------- | Federal | New York |
+(1) Slip Law | "Public Law" | "Chapter Law" |
+(2) Session Law | U.S. Statutes at Large (Stat.) (official) | Laws of NY (L.) (official); McKinney's Session Laws (West); CLS Session Laws (Lexis) |
+(3) Code | U.S.C. (official); USCA (West); USCS (Lexis) | No "official" code; McKinney's (West); CLS (Lexis) |
 
-Citation at the end of the statutory text: L. 1999, c. 255 = Legislative year/session 1999; 255th law passed
-
-New York Statues (list in slides) - law in NY organiized by area of law
-
-Hard copy publication sourcces for statutes in Federal & NY systems
-
-| 1. Slip Law | (see slide) |
+---
 
 **Finding statutes**
 
@@ -391,21 +401,21 @@ Richard Joslyn, Annotation, *Proximate Cause: Liability of Tortfeasor for Injure
 Note: When quoting from any source, use quotation marks and provide citation “so that readers
 may identify and find those authorities for future research.” **Rule 1 of the Bluebook.**
 
-[^1]: This is a New York case cited New York style
-[^2]: This is a New York case cited New York style
-[^3]: This is a New York case cited New York style
-[^4]: Federal case. Generally, follow the examples in footnotes here in 4, 5 and 6 for Supreme Court, Circuit Court, or District Court cases.
-[^5]: Federal case. Generally, follow the examples in footnotes here in 4, 5 and 6 for Supreme Court, Circuit Court, or District Court cases.
-[^6]: Federal case. Generally, follow the examples in footnotes here in 4, 5 and 6 for Supreme Court, Circuit Court, or District Court cases.
+[^1]: N.Y. York Court of Appeals
+[^2]: N.Y. Appellate Division First Department, 2d Division
+[^3]: N.Y. Supreme Court / trial court
+[^4]: U.S. Supreme Court
+[^5]: Federal Circuit Court of Appeals, 10th circuit
+[^6]: Federal District Court
 [^7]: This is an unreported opinion. For unreported opinions, use the name of the case, docket number, court and full date.
 [^8]: New York statute
 [^9]: New York statute
-[^10]: Federal: section of the United States Code
-[^11]: Regulations, New York (if citing a section)
-[^12]: Regulations, New York (if citing a part)
-[^13]: Regulations, Federal (if citing a section)
-[^14]: Regulations, Federal  (if citing a part)
-[^15]: Regulations, Federal (if citing proposed or final rules in Fed. Reg)
+[^10]: United States Code (section) (Federal)
+[^11]: Regulations, New York (section)
+[^12]: Regulations, New York (part)
+[^13]: Regulations, Federal (section)
+[^14]: Regulations, Federal  (part)
+[^15]: Regulations, Federal (proposed or final rules in Fed. Reg)
 [^16]: Encyclopedia (secondary source)
 [^17]: Treatise / Practice Guide. Author’s full name, title, section symbol (if applicable), section number or page number and then edition (if applicable) and year in parenthesis. If online, check currentness and use that year.
 [^18]: Treatise / Practice Guide. Author’s full name, title, section symbol (if applicable), section number or page number and then edition (if applicable) and year in parenthesis. If online, check currentness and use that year.
