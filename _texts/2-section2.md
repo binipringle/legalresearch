@@ -39,11 +39,11 @@ Wherever I start, I go around and around:
 
 <p style="margin-left:20%; margin-right:10%;">read secondary sources</p>
 
-<p style="margin-left:5%; margin-right:10%;">read secondary sources                              go to annotated code</p>
+<p style="margin-left:5%; margin-right:10%;">read secondary sources<pre>                              </pre>go to annotated code</p>
 
-read case and find more                                         read case and find more
+<p style="margin-left:0%; margin-right:10%;">read case and find more<pre>                                          </pre>read case and find more</p>
 
-<p style="margin-left:5%; margin-right:10%;">go to annotated code                              read secondary sources</p>
+<p style="margin-left:5%; margin-right:10%;">go to annotated code<pre>                               </pre>read secondary sources</p>
 
 <p style="margin-left:20%; margin-right:10%;">read secondary sources</p>
 
