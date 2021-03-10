@@ -232,12 +232,12 @@ Assignment 2 highlights after the fact (is failing to register as a sex offender
 - we used a more formed issue
 - choosing jurisdiction is crucial
 - these are the types we see:
-- 1. book by Judge Bogle (treatise) (good, I want this) (I go to cases in book and see what courts are - whether persuasive)
-- 2. What is this? Pretty broad - a treatise - charges to the jury (may not be super updated)
-- 3. ALR (seems to be highly relevant, and it is; the tricky thing with ALR is that they apply to all states; they're doing a whole survey; but you can filter by state in the sidebar; when we do this here we don't really find pertinent results in New York)
-- 5. New York Jurisprudence (this is a bit misleading but it's really good; takes us to People v. Haddock)
-- 6. Boston Law Review (law reviews are tricky because theoretical and often broad in scope; here the question of constitutionality can be pertinent)
-- 9. Cites People v. Haddock again. Also cites People v. Patterson and the other.
+- (1) book by Judge Bogle (treatise) (good, I want this) (I go to cases in book and see what courts are - whether persuasive)
+- (2) What is this? Pretty broad - a treatise - charges to the jury (may not be super updated)
+- (3) ALR (seems to be highly relevant, and it is; the tricky thing with ALR is that they apply to all states; they're doing a whole survey; but you can filter by state in the sidebar; when we do this here we don't really find pertinent results in New York)
+- (5) New York Jurisprudence (this is a bit misleading but it's really good; takes us to People v. Haddock)
+- (6) Boston Law Review (law reviews are tricky because theoretical and often broad in scope; here the question of constitutionality can be pertinent)
+- (9) Cites People v. Haddock again. Also cites People v. Patterson and the other.
 
 1. Go into McKinney's law - go to table of contents (toc) - toc is the "statutory scheme"
 2. We might want to go here to find specific words and to put what we're looking at the statutory scheme.
