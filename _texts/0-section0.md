@@ -118,7 +118,82 @@ Determine whether each source reflects the current status of the law and which s
 
 - Federal district courts in New York appeal to the 2d Circuit Court of Appeals, so **decisions from the 2d Circuit Court of Appeals are binding on Federal district courts in New York**. However, Federal district courts in New York are not bound by decisions of the 11th Circuit Court of Appeals or any other circuit court besides the 2d.
 
+- Trial courts are only bound to follow the decisions of the Circuit court in their jurisdiction (for example, decisions of the Federal Circuit Court of Appeals 1st Circuit are mandatory authority for District Courts in the 1st Circuit, but not for District Courts in any other circuit).
+
+### E. The New York State Legal System and Sources of Law
+
+1. **The Legislative Branch:** Senate and Assembly. Legislation passed by both chambers and not vetoed by governor becomes part of the NYS statutes.
+
+2. **The Executive Branch:** Governor presiding over administrative agencies (usually created by the legislature) which create and enforce New York state regulations.
+
+3. **The Judicial Branch:**
+
+### a. Court System Structure
+
+differs from the federal system in important ways, such as different types of trial courts,  civil and criminal court systems.
+
+### i. Trial courts
+
+Much more complicated than federal system. N.Y. Family Court, N.Y. Surrogate's Court, N.Y. Supreme Court *and others.* Other minor courts in certain counties. **N.Y. state trial level courts have no binding authority on each other.**
+
+### ii. Intermediate-Appellate Courts
+
+**N.Y. Supreme Court, Appellate Division** is referred to as the **Appellate Division** and is divided into **four geographic departments.**
+
+#### New York State Jurisdictional Subdivisions
+
+*Counties also grouped by state Judicial District number because some NY trial courts use that jurisdictional designation rather than a county. Not to be confused with the Appellate Department number.*
+
+Department | District | Counties |
+First | 1st JD | New York |
+--^^-- | 12th JD | Bronx |
+Second | 2nd JD | Kings |
+--^^-- | 9th JD | Dutchess, Orange, Putnam, Rockland, Westchester |
+--^^-- | 10th JD | Nassau and Suffolk |
+--^^-- | 11th JD | Queens |
+--^^-- | 13th JD | Richmond (Staten Island) |
+Third | 3rd JD | Albany, Columbia, Greene, Rensselaer, Schoharie, Sullivan, Ulster |
+--^^-- | 4th JD | Clinton, Essex, Franklin, Fulton, Hamilton, Montgomery, St. Lawrence, Saratoga, Schenectady, Warren, Washington |
+--^^-- | 6th JD | Broome, Chemung, Chenango, Cortland, Delaware, Madison, Otsego, Shuyler, Tioga, Tompkins |
+Fourth | 5th JD | Herkimer, Jefferson, Lewis, Oneida, Onondaga, Oswego |
+--^^-- | 7th JD | Cayuga, Livingston, Monroe, Ontario, Seneca, Steuben, Wayne, Yates |
+--^^-- | 8th JD | Allegany, Cattaraugus, Chautaqua, Erie, Genesee, Niagara, Orleans, Wyoming |
+
+### b. Authority in New York State Courts
+
+In New York, the Appellate Division is split into four departments, but there is disagreement about whether decisions of one department’s Appellate Division court are binding on trial courts in other departments. In *Mountain View Coach Lines, Inc. v. Storms*, 102 A.D.2d 663 (2d Dep’t 1984), the second department Appellate Division court stated that the Appellate Division is one court divided into departments only for administrative convenience, and held that **decisions coming from any Appellate Division department are binding on all state trial courts in New York, as long as there is not a contrary ruling by the Appellate Division court in their own departments**. The Mountain View decision is still considered good law
+in the Second Department and continues to be cited as authority and followed.
+
+Some trial courts in the First Department have not followed Mountain View and view the Appellate Division Departments as separate courts, similar to the Federal Circuit Courts of Appeals. There has been no explicit ruling on the matter by the New York Court of Appeals to resolve this inconsistency.
+
+New York Appellate Division jurisdiction is often a source of confusion, so here is an
+easier way to look at which appellate court decisions trial courts in New York will
+consider binding authority:
+
+- Decisions from the Appellate Division court in your department are always
+considered mandatory; additionally,
+- For trial courts in the Second Department, decisions from Appellate Division
+courts in other departments are mandatory as long as they are not in conflict with
+decisions from the Appellate Division court in the second department;
+- For trial courts in the First Department, decisions from Appellate Division courts
+in other departments are not mandatory, but will be considered strongly
+persuasive as long as they are not in conflict with decisions from the Appellate
+Division court in the First Department;
+- For trial courts in the Third and Fourth Departments, if you want to argue that an
+Appellate Division decision from a different department is mandatory you will
+need to do some additional research to see under what circumstances, if any,
+Mountain View has been followed or distinguished by courts those departments.
+
 ---
+
+# The Legal Research Plan
+
+1. Organize facts and frame the issue
+- a. use 5 Ws - who, what, where, when, why - to organize facts
+- b. draft a preliminary issue statement
+2. Jurisdiction
+- identify jurisdiction
+- know which sources are mandatory authority
 
 # Secondary sources
 
@@ -138,29 +213,25 @@ Wrong way: random terms > dive into first case Westlaw returns > dive into other
 
 Something and "Commentary"
 
-- Treatises // Practitioner Sources
+- Treatises / Practitioner Sources
 - Encyclopedias
 - Law Review Articles
 
-Encyclopedias provide an overview of the area of the law and may contain citations to some ccases and statutes. NOT where you go for very up-to-date information Amerrican jurispudence is the national one - very broad - new york jurisprudence is a little less broad and updated a little more frequently; still very general. Good but not greatt. What I really want is a treatise. A treatise provides in-deptth diiscussion on a particular legal topic anddd is often writtten by legal scholars. Practitionerr sourcces are a little more specific in tterms of what ccan be useful tto a pracctitiioner. In depth analysis of particular area of law wiith citations to cases, statutes, regulaattions; practiccal suggestions and tips (love tips); forms
+Encyclopedias provide an overview of the area of the law and may contain citations to some cases and statutes. NOT where you go for very up-to-date information. *American Jurisprudence* is the national one - very broad. New York Jurisprudence is a little less broad and updated a little more frequently; still very general. Good but not great.
 
-ALR: American Law Reports (another beast)
+A treatise is what I really want. A treatise provides in-depth discussion on a particular legal topic and is often written by legal scholars.
 
-Westlaw gives you suggestions (if you like this you might also like this). Westlaw often suggests ALR. ALR is often very good for very specific issues. Lots of citations. But, just like with encyclopedias, ALR is not always up to date.
+Practitioner sources are a little more specific in terms of what can be useful to a practitioner. In-depth analysis of particular area of law with citations to cases, statutes, regulations; practical suggestions and tips (love tips); forms
 
-Law Review articles
+American Law Reports (ALR)(another beast). Westlaw gives you suggestions (if you like this you might also like this). Westlaw often suggests ALR. ALR is often very good for very specific issues. Lots of citations. But, just like with encyclopedias, ALR is not always up to date.
 
-When I'm doing research on a specific topic I should filter these out because they're largely academic. Professors critiquing the law and saying what it should be. Law reviews are usually structured similarly. Section two is usually background and therefore useful. When new or changing topic can be useful. Law Review articcles can be useful forr classes where you are writing about a theorrettical topic. Problem in thhose clsses is often people don't do much research. Law Review articles are good for this. Westlaw and Lexis are good to find recent law review articles. Only go back to thhe 90s. For older law review articcles use HEIN Online.
+Law Review articles are largely academic. Professors critiquing the law and saying what it should be. Law reviews are usually structured similarly. **Section two is usually background and therefore useful.** When new or changing topic can be useful. Law Review articles can be useful for classes where you are writing about a theoretical topic. Problem in those classes is often people don't do much research. Law Review articles are good for this. Westlaw and Lexis are good to find recent law review articles. Only go back to the 90s. For older law review articles use HEIN Online.
 
-**HEIN Online**
-
-Nice obsession with footnotes. HEIN is mostly PDFs so footnotes are in bottom of page.
-
-Is failing to register as a sex offender a strict liabiility crime
+**HEIN Online** Nice obsession with footnotes. HEIN is mostly PDFs so footnotes are in bottom of page.
 
 ---
 
-Assignment 2 highlights after the fact
+Assignment 2 highlights after the fact (is failing to register as a sex offender a strict liability crime)
 
 - we used a more formed issue
 - choosing jurisdiction is crucial
@@ -170,58 +241,41 @@ Assignment 2 highlights after the fact
 - 3. ALR (seems to be highly relevant, and it is; the tricky thing with ALR is that they apply to all states; they're doing a whole survey; but you can filter by state in the sidebar; when we do this here we don't really find pertinent results in New York)
 - 5. New York Jurisprudence (this is a bit misleading but it's really good; takes us to People v. Haddock)
 - 6. Boston Law Review (law reviews are tricky because theoretical and often broad in scope; here the question of constitutionality can be pertinent)
-- 9. Cites People v. Haddock again. Also cites People v. Pattterson and the other.
+- 9. Cites People v. Haddock again. Also cites People v. Patterson and the other.
 
-Go into McKinney's law - go to toc - toc is the "statutory scheme"
+1. Go into McKinney's law - go to table of contents (toc) - toc is the "statutory scheme"
+2. We might want to go here to find specific words and to put what we're looking at the statutory scheme.
+3. Go to notes of decision to find annotations by lawyers  
+4. Go to citing references to see everywhere in the whole system in Westlaw where it is cited. Beautiful thing.
+5. Lexis+ does this too. In Lexis+ it's called shepherd.
+6. We want to admit that the algorithm in Westlaw and Lexis+ has improved tremendously over the years.
+7. I can peek at cases.
+8. Then, circle back to our discussion on first day of class. **Pizza box.**
 
-We might want to go here to find specific words and to put what we're looking at the statutory scheme.
+### Court of Appeals
 
-Go to notes of decision to find annotations by lawyers  
-
-Go to citing references to see everywhere in the whole system in Westlaw where it is cited. Beautiful thing.
-
-Lexis+ does this too. In Lexis+ it's called shepherd.
-
-We want to admit that the algorithm in Westlaw and Lexis+ has improved tremendously over the years.
-
-I can peek at cases.
-
-Then, circle back to our discussion on first day of class. Pizza box.
-
-Court of Appeals
-
-| 1st Dep | 2nd Dep | 3rd Dep | 4th Dep |
-
-| Patterson, Manson (not persuasive) | | People v. Haddock Court of appeals | |
+1st Dep | 2nd Dep | 3rd Dep | 4th Dep |
+Patterson, Manson (not persuasive) | ------- | People v. Haddock Court of appeals | ------- |
 
 This goes back to Mountain View. There is some authority that if my department hasn't talked but another department has that a court of appeals decision in another department is authoritative and 1st Department should be mandatory authority for the 3rd Department.
 
-Rule 1: go to the library (secondary sources)
-
-Rule 0.25: pen and paper
-
-Rule 0.5: what is the deliverable? (lawyers are in the delivery business) (the only thing worse than turning up with a 40-page memo when all they wanted was a brief email is turning up with a brief summary when they wanted a 40-page memo)
-
-Rule 0.75: where should I begin?
+1. Rule 1: go to the library (secondary sources)
+2. Rule 0.25: pen and paper
+3. Rule 0.5: what is the deliverable? (lawyers are in the delivery business)
+4. Rule 0.75: where should I begin?
 
 Look again at the legal research mini-playbook
 
-STATUTORY RESEARCH
-
-Most research is statutory
-
-legislative history saved my ass
-
-If statute involved in research, locate it first and use annotated statutte
-
-annottations to relevant case law, secondary sourcces, ccross references etttc. are "pure gold"
-
 ---
 
-The Legislative Process
+# Statutory Research
 
-- statutes are firstt proposed as bills in the legislature
-- bills must pass through an involved legislative process bbefoe bbecocming statutes - most bills directly
+Most research is statutory. If statute involved in research, locate it first and **use annotated statute**. Annotations to relevant case law, secondary sources, cross references etc. are "pure gold."
+
+## The Legislative Process
+
+- statutes are first proposed as bills in the legislature
+- bills must pass through an involved legislative process before becoming statutes - most bills directly
 - more stuff - see slides
 
 On the Federal side when a bill makes it it beccomes public law. On state side when a bill maakes it it becomes chapter law
@@ -290,4 +344,64 @@ statutory scheme: pull out large section
 
 Shepardize: takes you to another screen where all citations witthin Lexis system.
 
-Look at text of statute; look around, get bearings, see what I see.  
+Look at text of statute; look around, get bearings, see what I see.
+
+---
+Try and remember what these are from [Burn the Bluebook](http://www.dcoxfiles.com/burnthebluebook.pdf) (but see this cheat sheet because it's really good)
+
+*Podolsky v. Equifax, Inc.,* 58 N.Y.2d 649 (1982).[^1]
+
+*Kupitz v. Elliott,* 42 A.D.2d 898 (1st Dep’t 1973).[^2]
+
+*Vrooman v. Vrooman,* 183 Misc. 233 (Sup. Ct. Queens Cnty. 2015).[^3]
+
+*Meritor Sav. Bank v. Vinson,* 477 U.S. 57 (1986).[^4]
+
+*United States v. Jardine,* 364 F.3d 1200 (10th Cir. 2004).[^5]
+
+*Harris v. Roderick,* 933 F. Supp. 2d 977 (D. Idaho 1996).[^6]
+
+*St. Paul Mercury Ins. Co. v. Tessera, Inc.,* No. 12-cv-01827, 2016 WL 4719275, at *2 (N.D. Cal. Sept. 9, 2016).[^7]
+
+N.Y. Gen. Bus. Law § 430[^8]
+
+N.Y. Soc. Serv. Law § 363[^9]
+
+28 U.S.C. § 1920[^10]
+
+REGULATIONS
+NEW YORK
+N.Y. Comp. Codes R. & Regs. tit. 18, § 351.2 (if citing a section)
+N.Y. Comp. Codes R. & Regs. tit. 18, pt. 351 (if citing a part)
+FEDERAL
+29 C.F.R. § 825.104 (if citing a section)
+29 C.F.R. pt. 825 (if citing a part)
+58 Fed. Reg. 13394 (Mar. 10, 1993) (if citing proposed or final rules in Fed. Reg).
+SECONDARY SOURCES
+Legal Encyclopedia. 22 N.Y. Jur. 2d Contracts § 54 (2020).
+Treatises / Practice Guides. Author’s full name, title, section symbol (if applicable), section
+number or page number and then edition (if applicable) and year in parenthesis. If online,
+check currentness and use that year.
+David D. Siegel, New York Practice § 134 (5th ed. 2019).
+21 Charles Allen Wright & Arthur R. Miller, Federal Practice and Procedure § 1006
+(2020.
+Law review articles & A.L.R. annotations. Author, title, volume, journal (abbreviations at
+T.13), first page, pinpoint page, year in parentheses.
+Jeffrey L. Kirchmeier, Dead Innocent: The Death Penalty Abolitionist Search for a
+Wrongful Execution, 42 Tulsa L. Rev. 403, 407 (2006).
+Richard Joslyn, Annotation, Proximate Cause: Liability of Tortfeasor for Injured
+Person's Subsequent Injury or Reinjury, 31 A.L.R.3d 1000 (1970).
+OTHER
+When quoting from any source, use quotation marks and provide citation “so that readers
+may identify and find those authorities for future research.” Rule 1 of the Bluebook.
+
+[^1]: This is a New York case cited New York style
+[^2]: This is a New York case cited New York style
+[^3]: This is a New York case cited New York style
+[^4]: Federal case. Generally, follow the examples in footnotes here in 4, 5 and 6 for Supreme Court, Circuit Court, or District Court cases.
+[^5]: Federal case. Generally, follow the examples in footnotes here in 4, 5 and 6 for Supreme Court, Circuit Court, or District Court cases.
+[^6]: Federal case. Generally, follow the examples in footnotes here in 4, 5 and 6 for Supreme Court, Circuit Court, or District Court cases.
+[^7]: This is an unreported opinion. For unreported opinions, use the name of the case, docket number, court and full date.
+[^8]: New York statute
+[^9]: New York statute
+[^10]: Federal: section of the United States Code
