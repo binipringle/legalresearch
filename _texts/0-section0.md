@@ -8,30 +8,30 @@ toc:
 - Government power and the Law
 - Federal and State jurisdictions
 - Understanding legal authority
--	1. Sources of authority
--	a. Primary sources
--	b. Secondary sources
--	2. Weight of authority
--	a. Mandatory authority
--	"Ideal" case law
--	b. Persuasive authority
--	3. Case authority - additional considerations
--	a. Precedent - stare decisis
--	b. Court system structure
--	c. Cases - which parts are considered binding
--	i. Holding versus Dictum
--	ii. Majority, Concurring, Plurality, and Dissenting Opinions
--	4. Updating Legal Sources
+-	Sources of authority
+-	Primary sources
+-	Secondary sources
+-	Weight of authority
+-	Mandatory authority
+-	Ideal case law
+-	Persuasive authority
+-	Case authority - additional considerations
+-	Precedent - stare decisis
+-	Court system structure
+-	Cases - which parts are considered binding
+-	Holding versus Dictum
+-	Majority, Concurring, Plurality, and Dissenting Opinions
+-	Updating Legal Sources
 -	The Federal Court System
 -	The New York State Legal System and Sources of Law
--	a. Court System Structure
+-	Court System Structure
 -	New York State Jurisdictional Subdivisions
--	b. Authority in New York State Courts
+-	Authority in New York State Courts
 -	Mountain View (N.Y. Court of Appeals)
--	5. The Legal Research Plan
+-	The Legal Research Plan
 -	Secondary sources
 -	Types of secondary sources
--	6. Statutory Research
+-	Statutory Research
 -	The Legislative Process
 -	Federal laws
 -	United States Code Arrangement
