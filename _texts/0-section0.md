@@ -8,6 +8,38 @@ toc:
 - Government power and the Law
 - Federal and State jurisdictions
 - Understanding legal authority
+-	1. Sources of authority
+-	a. Primary sources
+-	b. Secondary sources
+-	2. Weight of authority
+-	a. Mandatory authority
+-	"Ideal" case law
+-	b. Persuasive authority
+-	3. Case authority - additional considerations
+-	a. Precedent - stare decisis
+-	b. Court system structure
+-	c. Cases - which parts are considered binding
+-	i. Holding versus Dictum
+-	ii. Majority, Concurring, Plurality, and Dissenting Opinions
+-	4. Updating Legal Sources
+-	The Federal Court System
+-	The New York State Legal System and Sources of Law
+-	a. Court System Structure
+-	New York State Jurisdictional Subdivisions
+-	b. Authority in New York State Courts
+-	Mountain View (N.Y. Court of Appeals)
+-	5. The Legal Research Plan
+-	Secondary sources
+-	Types of secondary sources
+-	6. Statutory Research
+-	The Legislative Process
+-	Federal laws
+-	United States Code Arrangement
+-	New York Statutes
+-	Hard copy publication sources for statutes in Federal and NY systems
+-	Finding statutes
+-	Lexis
+-	Practice
 
 ---
 
@@ -51,7 +83,7 @@ In order for a law to be binding, **it must be considered mandatory authority in
 - administrative law
 - cases
 
-*ideal* case law:
+## "Ideal" case law
 
 mandatory precedent
 
@@ -76,7 +108,7 @@ Courts have discretion to consider non-mandatory primary and secondary sources a
 
 ## 3. Case authority - additional considerations
 
-### a. Precedent: stare decisis
+### a. Precedent - stare decisis
 
 - deciding cases in accordance with established precedent lends predictability and stability to the law and society, and provides some degree of confidence that legal disputes will be handled fairly by the courts.
 
@@ -107,17 +139,17 @@ Most cases contain a single written opinion that constitutes the court’s decis
 - **Plurality opinions** exist in cases where the majority of judges agree on the outcome of the case but no opinion has the support of the majority. In other words, although a majority of judges concur in the outcome, they don’t agree on the reasons for it. In this situation, the opinion in favor of the winning party that has the most support among the judges is the plurality opinion. However, **the plurality opinion is not automatically the controlling one.** The U.S. Supreme Court stated in *Marks v. United States* that when no opinion has the support of the majority, the controlling opinion will be the one that decided the issue on the narrowest grounds. Where there is no majority opinion, a concurring opinion could be considered controlling if it fits the Supreme Court’s criteria better than the plurality opinion. Interpreting this rule has created some confusion in later cases; *when there is no majority opinion in a case I want to use I will have to do additional research to determine whether the plurality or a concurring opinion is controlling.*
 - **Dissenting opinions** are **never considered mandatory** as they disagree with the outcome of the case, either in whole or in part. However, sometimes a dissent proposes changes in the law or contains an insightful analysis that can be used persuasively in later cases to challenge established precedent.
 
-## 4. Updating Legal Sources
+# 4. Updating Legal Sources
 
 Determine whether each source reflects the current status of the law and which sources can no longer be relied on or should only be used with caution.
 
-### D. The Federal Court System
+### The Federal Court System
 
 - **U.S. Supreme Court**
 - **1st, 2nd, 3rd, ... 11th + D.C. & Federal Circuit Courts of Appeals (13)** are intermediate-level appellate courts. They are divided into separate circuits.
 - **U.S. District Courts (94)** are trial courts. At least one in every state (more in more populous states), some in District of Columbia and certain U.S. Territories. *District courts located in each circuit are only bound to follow the decisions of the U.S. Supreme Court and the Circuit Court of Appeals for their particular circuit.* For example, Federal district courts in New York appeal to the 2d Circuit Court of Appeals, so *decisions from the 2d Circuit Court of Appeals are binding on Federal district courts in New York*. However, Federal district courts in New York are not bound by decisions of the 11th Circuit Court of Appeals or any other circuit court besides the 2d. For example, decisions of the Federal Circuit Court of Appeals 1st Circuit are mandatory authority for District Courts in the 1st Circuit, but not for District Courts in any other circuit.
 
-### E. The New York State Legal System and Sources of Law
+### The New York State Legal System and Sources of Law
 
 1. **Legislative branch:** Senate and Assembly. Legislation passed by both chambers and not vetoed by governor becomes part of the NYS statutes.
 2. **Executive branch:** Governor presiding over administrative agencies (usually created by the legislature) which create and enforce New York state regulations.
@@ -181,7 +213,23 @@ Mountain View has been followed or distinguished by courts those departments.
 
 ---
 
-# The Legal Research Plan
+### Mountain View (N.Y. Court of Appeals)
+
+1st Dep | 2nd Dep | 3rd Dep | 4th Dep |
+Patterson, Manson (not persuasive) | ------- | People v. Haddock Court of appeals | ------- |
+
+This goes back to Mountain View. There is some authority that if my department hasn't talked but another department has that a court of appeals decision in another department is authoritative and 1st Department should be mandatory authority for the 3rd Department.
+
+1. Rule 1: go to the library (secondary sources)
+2. Rule 0.25: pen and paper
+3. Rule 0.5: what is the deliverable? (lawyers are in the delivery business)
+4. Rule 0.75: where should I begin?
+
+Look again at the legal research [Mini Playbook](http://www.alr.legalresearch.nyc/playbook.pdf)
+
+---
+
+# 5. The Legal Research Plan
 
 1. Organize facts and frame the issue
 - a. use 5 Ws - who, what, where, when, why - to organize facts
@@ -250,23 +298,7 @@ Assignment 2 highlights after the fact (is failing to register as a sex offender
 
 ---
 
-### N.Y. Court of Appeals
-
-1st Dep | 2nd Dep | 3rd Dep | 4th Dep |
-Patterson, Manson (not persuasive) | ------- | People v. Haddock Court of appeals | ------- |
-
-This goes back to Mountain View. There is some authority that if my department hasn't talked but another department has that a court of appeals decision in another department is authoritative and 1st Department should be mandatory authority for the 3rd Department.
-
-1. Rule 1: go to the library (secondary sources)
-2. Rule 0.25: pen and paper
-3. Rule 0.5: what is the deliverable? (lawyers are in the delivery business)
-4. Rule 0.75: where should I begin?
-
-Look again at the legal research [Mini Playbook](http://www.alr.legalresearch.nyc/playbook.pdf)
-
----
-
-# Statutory Research
+# 6. Statutory Research
 
 Most research is statutory. If statute involved in research, locate it first and **use annotated statute**. Annotations to relevant case law, secondary sources, cross references etc. are "pure gold."
 
@@ -317,7 +349,7 @@ On the Federal side when a bill makes it, the bill becomes public law. On the st
 
 Law in New York organized by area of law
 
-### Hard copy publication sources for statutes in Federal & N.Y. systems
+### Hard copy publication sources for statutes in Federal and NY systems
 
 --------- | Federal | New York |
 (1) Slip Law | "Public Law" | "Chapter Law" |
@@ -326,7 +358,7 @@ Law in New York organized by area of law
 
 ---
 
-**Finding statutes**
+### Finding statutes
 
 1. citation
 2. popular name (sometimes practitioners refer to in a way)
@@ -336,6 +368,8 @@ Law in New York organized by area of law
 6. full text searching
 
 ---
+
+### Lexis
 
 Assignment 3
 
@@ -354,6 +388,9 @@ Shepardize: takes you to another screen where all citations witthin Lexis system
 Look at text of statute; look around, get bearings, see what I see.
 
 ---
+
+## Practice
+
 Try and remember what these are from [Burn the Bluebook](http://www.dcoxfiles.com/burnthebluebook.pdf) (but see this cheat sheet because it's really good)
 
 *Podolsky v. Equifax, Inc.,* 58 N.Y.2d 649 (1982).[^1]
