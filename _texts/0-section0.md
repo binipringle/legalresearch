@@ -5,6 +5,41 @@ author:
 editor: Sabina Pringle
 source: Progressive Legal Research by Jonathan Saxon, CUNY School of Law Library, and lectures and class slides by Douglas Cox, CUNY School of Law
 toc:
+- Government power and the Law
+- Federal and State jurisdictions
+- Understanding legal authority
+- Sources of authority
+- Primary sources
+- Secondary sources
+- Weight of authority
+- Mandatory authority
+- Ideal case law
+- Persuasive authority
+- Case authority - additional considerations
+- Precedent - stare decisis
+- Court system structure
+- Cases - which parts are considered binding
+- Holding versus Dictum
+- Majority, Concurring, Plurality, and Dissenting Opinions
+- Updating Legal Sources
+- The Federal Court System
+- The New York State Legal System and Sources of Law
+- Court System Structure
+- New York State Jurisdictional Subdivisions
+- Authority in New York State Courts
+- Mountain View (N.Y. Court of Appeals)
+- The Legal Research Plan
+- Secondary sources
+- Types of secondary sources
+- Statutory Research
+- The Legislative Process
+- Federal laws
+- United States Code Arrangement
+- New York Statutes
+- Hard copy publication sources for statutes in Federal and NY systems
+- Finding statutes
+- Lexis
+- Practice
 
 ---
 
@@ -25,30 +60,30 @@ toc:
 
 Map: (1) U.S. Constitution > Art. 1 legislative branch (2) statutes / codes > Art. 2 executive branch (3) regulations > Art. 3 judicial branch (4) judicial branch - case law
 
-## 1. Sources of authority
+## Sources of authority
 
-### a. Primary sources
+### Primary sources
 
 - statutes
 - regulations and decisions of administrative agencies
 - executive orders and presidential proclamations
 - court opinions written by the judiciary
 
-### b. Secondary sources
+### Secondary sources
 
 - anything pertaining to the law that is not considered a primary source. Can be analysis of law, critique of law, explanation of legal strategy, legal practice tips and so on.
 
-## 2. Weight of authority
+## Weight of authority
 
 In order for a law to be binding, **it must be considered mandatory authority in the jurisdiction where the case is brought.**
 
-### a. Mandatory authority
+### Mandatory authority
 
 - statutes
 - administrative law
 - cases
 
-## "Ideal" case law
+## Ideal case law
 
 mandatory precedent
 
@@ -62,7 +97,7 @@ mandatory precedent
 
 <p style="margin-left:30%; margin-right:10%;">and is relatively recent.</p>
 
-### b. Persuasive authority
+### Persuasive authority
 
 Courts have discretion to consider non-mandatory primary and secondary sources as persuasive authority. Sometimes primary law sources from another jurisdiction can be used persuasively. Secondary sources can sometimes be used persuasively too. Both can play a role in situations such as:
 
@@ -71,13 +106,13 @@ Courts have discretion to consider non-mandatory primary and secondary sources a
 - cases involving areas of law that are unsettled in a jurisdiction but may have been decided elsewhere; and
 - challenging the validity of the laws themselves.
 
-## 3. Case authority - additional considerations
+## Case authority - additional considerations
 
-### a. Precedent - stare decisis
+### Precedent - stare decisis
 
 - deciding cases in accordance with established precedent lends predictability and stability to the law and society, and provides some degree of confidence that legal disputes will be handled fairly by the courts.
 
-### b. Court system structure
+### Court system structure
 
 The court system in a given jurisdiction affects which cases will hold mandatory authority. **Usually three-tiered structure:**
 
@@ -85,17 +120,17 @@ The court system in a given jurisdiction affects which cases will hold mandatory
 - Intermediate-level appellate courts
 - Final appellate courts
 
-### c. Cases - which parts are considered binding
+### Cases - which parts are considered binding
 
 Only the text in the opinion contains the law. Sometimes more than one opinion is included in published cases and their precedential value is not equal.
 
-### i. Holding versus Dictum
+### Holding versus Dictum
 
 - The “holding” is the part of the opinion that bears directly on the issue at hand and is considered the law.
 - “ratio decidendi” is when the court explains its reasoning in arriving at its holding. **This is also considered mandatory authority.**
 - “Dictum” is any statement contained in a case opinion that doesn’t relate directly to the issue at hand or speculates about other situations or facts not present in the current case. *Dictum contained in an opinion is not mandatory, even though the other parts of the opinion that do pertain to the issue are mandatory.*
 
-### ii. Majority, Concurring, Plurality, and Dissenting Opinions
+### Majority, Concurring, Plurality, and Dissenting Opinions
 
 Most cases contain a single written opinion that constitutes the court’s decision, but appellate cases are usually decided by more than one judge. **If there's more than one opinion, one of these is controlling.**
 
@@ -104,7 +139,7 @@ Most cases contain a single written opinion that constitutes the court’s decis
 - **Plurality opinions** exist in cases where the majority of judges agree on the outcome of the case but no opinion has the support of the majority. In other words, although a majority of judges concur in the outcome, they don’t agree on the reasons for it. In this situation, the opinion in favor of the winning party that has the most support among the judges is the plurality opinion. However, **the plurality opinion is not automatically the controlling one.** The U.S. Supreme Court stated in *Marks v. United States* that when no opinion has the support of the majority, the controlling opinion will be the one that decided the issue on the narrowest grounds. Where there is no majority opinion, a concurring opinion could be considered controlling if it fits the Supreme Court’s criteria better than the plurality opinion. Interpreting this rule has created some confusion in later cases; *when there is no majority opinion in a case I want to use I will have to do additional research to determine whether the plurality or a concurring opinion is controlling.*
 - **Dissenting opinions** are **never considered mandatory** as they disagree with the outcome of the case, either in whole or in part. However, sometimes a dissent proposes changes in the law or contains an insightful analysis that can be used persuasively in later cases to challenge established precedent.
 
-# 4. Updating Legal Sources
+# Updating Legal Sources
 
 Determine whether each source reflects the current status of the law and which sources can no longer be relied on or should only be used with caution.
 
@@ -120,7 +155,7 @@ Determine whether each source reflects the current status of the law and which s
 2. **Executive branch:** Governor presiding over administrative agencies (usually created by the legislature) which create and enforce New York state regulations.
 3. **Judicial branch:**
 
-### a. Court System Structure
+### Court System Structure
 
 Differs from the federal system in important ways, such as different types of trial courts,  civil and criminal court systems.
 
@@ -153,7 +188,7 @@ Fourth | 5th JD | Herkimer, Jefferson, Lewis, Oneida, Onondaga, Oswego |
 --^^-- | 7th JD | Cayuga, Livingston, Monroe, Ontario, Seneca, Steuben, Wayne, Yates |
 --^^-- | 8th JD | Allegany, Cattaraugus, Chautaqua, Erie, Genesee, Niagara, Orleans, Wyoming |
 
-### b. Authority in New York State Courts
+### Authority in New York State Courts
 
 In New York, the Appellate Division is split into four departments, but there is disagreement about whether decisions of one department’s Appellate Division court are binding on trial courts in other departments. In *Mountain View Coach Lines, Inc. v. Storms*, 102 A.D.2d 663 (2d Dep’t 1984), the second department Appellate Division court stated that the Appellate Division is one court divided into departments only for administrative convenience, and held that **decisions coming from any Appellate Division department are binding on all state trial courts in New York, as long as there is not a contrary ruling by the Appellate Division court in their own departments**. The Mountain View decision is still considered good law
 in the Second Department and continues to be cited as authority and followed.
@@ -194,7 +229,7 @@ Look again at the legal research [Mini Playbook](http://www.alr.legalresearch.ny
 
 ---
 
-# 5. The Legal Research Plan
+# The Legal Research Plan
 
 1. Organize facts and frame the issue
 - a. use 5 Ws - who, what, where, when, why - to organize facts
@@ -263,7 +298,7 @@ Assignment 2 highlights after the fact (is failing to register as a sex offender
 
 ---
 
-# 6. Statutory Research
+# Statutory Research
 
 Most research is statutory. If statute involved in research, locate it first and **use annotated statute**. Annotations to relevant case law, secondary sources, cross references etc. are "pure gold."
 
