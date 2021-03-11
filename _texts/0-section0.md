@@ -84,9 +84,9 @@ In order for a law to be binding, **it must be considered mandatory authority in
 - administrative law
 - cases
 
-### Ideal case law
+## Ideal case law
 
-mandatory precedent
+Mandatory precedent
 
 <p style="margin-left:10%; margin-right:10%;">on same issue,</p>
 
@@ -485,7 +485,7 @@ T.13), first page, pinpoint page, year in parentheses.
 1. make sure legal authority is still good law
 2. double check legal authority is still good law
 3. find other relevant legal authority that cite my case
-4. find relevant secondary sources 
+4. find relevant secondary sources
 
 ### The seven Shepards signals  
 
