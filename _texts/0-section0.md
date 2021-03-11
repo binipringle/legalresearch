@@ -14,19 +14,18 @@ toc:
 - Mandatory authority
 - Ideal case law
 - Persuasive authority
-- Case authority - additional considerations
-- Precedent - stare decisis
+- Stare decisis
 - Court system structure
-- Cases - which parts are considered binding
+- Parts of cases considered binding
 - Holding versus Dictum
 - Majority, Concurring, Plurality, and Dissenting Opinions
 - Updating Legal Sources
 - The Federal Court System
 - The New York State Legal System and Sources of Law
-- Court System Structure
+- N.Y. Court System
 - New York State Jurisdictional Subdivisions
 - Authority in New York State Courts
-- Mountain View (N.Y. Court of Appeals)
+- Mountain View
 - The Legal Research Plan
 - Secondary sources
 - Types of secondary sources
@@ -102,30 +101,17 @@ Mandatory precedent
 
 ## Persuasive authority
 
-Courts have discretion to consider non-mandatory primary and secondary sources as persuasive authority. Sometimes primary law sources from another jurisdiction can be used persuasively. Secondary sources can sometimes be used persuasively too. Both can play a role in situations such as:
+Courts have discretion to consider non-mandatory primary and secondary sources as persuasive authority.
 
-- convincing a court how the law should be applied to particular facts;
-- challenging how laws have been applied in the past;
-- cases involving areas of law that are unsettled in a jurisdiction but may have been decided elsewhere; and
-- challenging the validity of the laws themselves.
+### Stare decisis
 
-## Case authority - additional considerations
-
-Parts of cases become law when a case is binding
-
-### Precedent - stare decisis
-
-- deciding cases in accordance with established precedent lends predictability and stability to the law and society, and provides some degree of confidence that legal disputes will be handled fairly by the courts.
+Deciding cases in accordance with established precedent lends predictability and stability to the law and society, and provides some degree of confidence that legal disputes will be handled fairly by the courts.
 
 ### Court system structure
 
-The court system in a given jurisdiction affects which cases will hold mandatory authority. **Usually three-tiered structure:**
+The court system in a given jurisdiction affects which cases will hold mandatory authority.
 
-- Trial courts
-- Intermediate-level appellate courts
-- Final appellate courts
-
-### Cases - which parts are considered binding
+### Parts of cases considered binding
 
 Only the text in the opinion contains the law. Sometimes more than one opinion is included in published cases and their precedential value is not equal.
 
@@ -144,15 +130,19 @@ Most cases contain a single written opinion that constitutes the court’s decis
 - **Plurality opinions** exist in cases where the majority of judges agree on the outcome of the case but no opinion has the support of the majority. In other words, although a majority of judges concur in the outcome, they don’t agree on the reasons for it. In this situation, the opinion in favor of the winning party that has the most support among the judges is the plurality opinion. However, **the plurality opinion is not automatically the controlling one.** The U.S. Supreme Court stated in *Marks v. United States* that when no opinion has the support of the majority, **the controlling opinion will be the one that decided the issue on the narrowest grounds.** Where there is no majority opinion, a concurring opinion could be considered controlling if it fits the Supreme Court’s criteria better than the plurality opinion. Interpreting this rule has created some confusion in later cases; *when there is no majority opinion in a case I want to use I will have to do additional research to determine whether the plurality or a concurring opinion is controlling.*
 - **Dissenting opinions** are **never considered mandatory.**
 
-# Updating Legal Sources
+### Updating Legal Sources
 
 Determine whether each source reflects the current status of the law and which sources can no longer be relied on or should only be used with caution.
 
-### The Federal Court System
+---
+
+## The Federal Court System
 
 - **U.S. Supreme Court**
 - **1st, 2nd, 3rd, ... 11th + D.C. & Federal Circuit Courts of Appeals (13)** are intermediate-level appellate courts. They are divided into separate circuits.
 - **U.S. District Courts (94)** are trial courts. At least one in every state (more in more populous states), some in District of Columbia and certain U.S. Territories. *District courts located in each circuit are only bound to follow the decisions of the U.S. Supreme Court and the Circuit Court of Appeals for their particular circuit.* For example, Federal district courts in New York appeal to the 2d Circuit Court of Appeals, so *decisions from the 2d Circuit Court of Appeals are binding on Federal district courts in New York*. However, Federal district courts in New York are not bound by decisions of the 11th Circuit Court of Appeals or any other circuit court besides the 2d. For example, decisions of the Federal Circuit Court of Appeals 1st Circuit are mandatory authority for District Courts in the 1st Circuit, but not for District Courts in any other circuit.
+
+---
 
 ### The New York State Legal System and Sources of Law
 
@@ -160,7 +150,7 @@ Determine whether each source reflects the current status of the law and which s
 2. **Executive branch:** Governor presiding over administrative agencies (usually created by the legislature) which create and enforce New York state regulations.
 3. **Judicial branch:**
 
-### Court System Structure
+## N.Y. Court System
 
 Differs from the federal system in important ways, such as different types of trial courts,  civil and criminal court systems.
 
@@ -218,12 +208,16 @@ Mountain View has been followed or distinguished by courts those departments.
 
 ---
 
-### Mountain View (N.Y. Court of Appeals)
+### Mountain View
+
+In the 1984 'Mountain View' Decision the questions of binding authority among the four judicial departments of New York state was addressed. Mountain View involved a collision between a bus owned by the plaintiff and a motor vehicle owned by the defendant. It was undisputed that the defendant was negligent; the issue at hand related only to damages. The Second Department applied a damages rule that directly conflicted with a damages rule on the same issue applicable in the Third Department. In holding that it was free to accept or reject appellate rulings of sister appellate courts, the Second Department went on to note that if there were no other appellate decisions in the Second Department, the trial court would have been required to apply the contrary rule from the Third Department. In particular, the court held that **"stare decisis requires trial courts in this department to follow precedents set by the Appellate Division of another department until the Court of Appeals or this court pronounces a contrary rule."** The late Judge Vito Titone, then sitting in the Appellate Division, explained his opinion by stating that adhering to such a policy "is a general principle of appellate procedure, necessary to maintain uniformity and consistency."
+
+Not surprisingly, the trial courts of the Second Department fall in line with the Mountain View doctrine, which was decided in their home department. The courts of the Third Department follow Mountain View. **The Fourth Department has never passed directly on the issue,** and reported decisions from that department shed little light on how that court would decide the issue. That leaves only the First Department, where  some confusion lies. **There are no cases in the First Department that directly and explicitly pass on and in favor of the Mountain View doctrine, although several cases do so implicitly.** 
 
 1st Dep | 2nd Dep | 3rd Dep | 4th Dep |
 Patterson, Manson (not persuasive) | ------- | People v. Haddock Court of appeals | ------- |
 
-This goes back to Mountain View. There is some authority that if my department hasn't talked but another department has that a court of appeals decision in another department is authoritative and 1st Department should be mandatory authority for the 3rd Department.
+There is some authority that if my department hasn't talked but another department has that a court of appeals decision in another department is authoritative and 1st Department should be mandatory authority for the 3rd Department.
 
 1. Rule 1: go to the library (secondary sources)
 2. Rule 0.25: pen and paper
@@ -243,23 +237,11 @@ Look again at the legal research [Mini Playbook](http://www.alr.legalresearch.ny
 - identify jurisdiction
 - know which sources are mandatory authority
 
-# Secondary sources
-
-Squishy words:
-
-- It depends
-- likely
-- unlikely
-
-First place we all go is Google to get terms (I got term "warranty of habitability"). Second place we go to is the library (for example, Westlaw Edge). There, go to secondary sources and see what on shelf *When searching remember to filter by jurisdiction>*
+Wrong way: random terms > dive into first case Westlaw returns > dive into other cases > down rabbit hole. (pizza box)
 
 See [mini-playbook](https://binipringle.github.io/legalresearch/texts/2-section2/) for method of research.
 
-Wrong way: random terms > dive into first case Westlaw returns > dive into other cases > down rabbit hole.
-
 ## Types of secondary sources
-
-Something and "Commentary"
 
 - Restatements
 - Treatises / Practitioner Sources
