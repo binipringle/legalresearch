@@ -28,19 +28,17 @@ N.Y. or N.Y. 2d or N.Y. 3d[^6]
 
 N.Y.S. or N.Y.S.2d or N.Y.S.3d[^7]
 
-N.E. or N.E.2d or N.E.3d[^8]
+A.D. or A.D.2d or A.D.3d[^8]
 
-A.D. or A.D.2d or A.D.3d[^9]
+N.E. or N.E.2d or N.E.3d[^9]
 
-N.E. or N.E.2d or N.E.3d[^10]
+Misc. or Misc. 2d or Misc. 3d[^10]
 
-Misc. or Misc. 2d or Misc. 3d[^11]
+Notes[^11]
 
-Notes[^12]
+More notes[^12]
 
-More notes[^13]
-
-Even more notes[^14]
+Even more notes[^13]
 
 --
 
@@ -64,18 +62,16 @@ Remember remember remember remember remember remember remember remember remember
 
 [^7]: N.Y.S. or N.Y.S.2d or N.Y.S.3d stands for *New York Supplement* (unofficial - West); reports from **N.Y. Court of Appeals** AND reports from **N.Y. Supreme Court**; **N.Y. Family Court**; **N.Y. Surrogate's Court**; **N.Y. County Court**; **N.Y. Criminal Court**; **N.Y. Supreme Court, Appellate Term**; **N.Y. City Court**; **N.Y. City Criminal Court** (trial level courts in NYS - courts of first instance)
 
-[^8]: N.E. or N.E.2d or N.E.3d stands for *North Eastern Reporter* (unofficial - West); reports from **N.Y. Court of Appeals**
+[^8]: A.D. or A.D.2d or A.D.3d stands for *Appellate Division Reports* (official); reports from **N.Y. Appellate Division (a.k.a. N.Y. Supreme Court, Appellate Division)** (intermediate appellate court in NYS)
 
-[^9]: A.D. or A.D.2d or A.D.3d stands for *Appellate Division Reports* (official); reports from **N.Y. Appellate Division (a.k.a. N.Y. Supreme Court, Appellate Division)** (intermediate appellate court in NYS)
+[^9]: N.E. or N.E.2d or N.E.3d stands for *North Eastern Reporter* (unofficial - West); reports from **N.Y. Court of Appeals** and **N.Y. Appellate Division (a.k.a. N.Y. Supreme Court, Appellate Division)**
 
-[^10]: N.E. or N.E.2d or N.E.3d stands for *North Eastern Reporter* (unofficial - West); reports from **N.Y. Appellate Division (a.k.a. N.Y. Supreme Court, Appellate Division)**
+[^10]: Misc. or Misc. 2d or Misc. 3d stands for *Miscellaneous Reports* (official); reports from **N.Y. Supreme Court**; **N.Y. Family Court**; **N.Y. Surrogate's Court**; **N.Y. County Court**; **N.Y. Criminal Court**; **N.Y. Supreme Court, Appellate Term**; **N.Y. City Court**; **N.Y. City Criminal Court**
 
-[^11]: Misc. or Misc. 2d or Misc. 3d stands for *Miscellaneous Reports* (official); reports from **N.Y. Supreme Court**; **N.Y. Family Court**; **N.Y. Surrogate's Court**; **N.Y. County Court**; **N.Y. Criminal Court**; **N.Y. Supreme Court, Appellate Term**; **N.Y. City Court**; **N.Y. City Criminal Court**
+[^11]: Note: Supreme Court Appellate Term decisions are published with the trial court decisions. The Appellate Term is a court that hears appeals from cases originating in New York City Courts and Criminal Courts as well as city, town and village courts in the first and second judicial departments only. It should not be confused with the Appellate Division.
 
-[^12]: Note: Supreme Court Appellate Term decisions are published with the trial court decisions. The Appellate Term is a court that hears appeals from cases originating in New York City Courts and Criminal Courts as well as city, town and village courts in the first and second judicial departments only. It should not be confused with the Appellate Division.
+[^12]: Less than 25% of all trial court and appellate term cases in New York are reported each year.
 
-[^13]: Less than 25% of all trial court and appellate term cases in New York are reported each year.
-
-[^14]: Many opinions from all levels of NY State courts are also printed first in the *New York Law Journal*; for some trial court decisions, they may only be printed in the New York Law Journal
+[^13]: Many opinions from all levels of NY State courts are also printed first in the *New York Law Journal*; for some trial court decisions, they may only be printed in the New York Law Journal
 
 ---

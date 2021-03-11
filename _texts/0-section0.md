@@ -7,7 +7,6 @@ source: Progressive Legal Research by Jonathan Saxon, CUNY School of Law Library
 toc:
 - Government power and the Law
 - Federal and State jurisdictions
-- Understanding legal authority
 - Sources of authority
 - Primary sources
 - Secondary sources
@@ -50,26 +49,28 @@ toc:
 - **regulations** are issued by specialized administrative agencies to implement policies and directives of Congress and the President.
 - **cases** are decided by the judicial branch of government. Judicial opinions create law in areas not covered by statutes or regulations. Judge-created law is common law.
 
+---
+
 # Federal and State jurisdictions
 
 - **Federal courts** have jurisdiction over any issue involving a federal statute, a treaty, or the U.S. Constitution.
 - **State governments** control torts, contracts, family law and other cases.
 - **Both federal and state laws** can apply to some areas such as environmental law, tax law, and labor law, sometimes giving the party initiating the lawsuit a choice of whether to file the case in a Federal or state court system.
 
-# Understanding legal authority
+---
+
+# Sources of authority
 
 Map: (1) U.S. Constitution > Art. 1 legislative branch (2) statutes / codes > Art. 2 executive branch (3) regulations > Art. 3 judicial branch (4) judicial branch - case law
 
-## Sources of authority
-
-### Primary sources
+## Primary sources
 
 - statutes
 - regulations and decisions of administrative agencies
 - executive orders and presidential proclamations
 - court opinions written by the judiciary
 
-### Secondary sources
+## Secondary sources
 
 - anything pertaining to the law that is not considered a primary source. Can be analysis of law, critique of law, explanation of legal strategy, legal practice tips and so on.
 
@@ -77,27 +78,29 @@ Map: (1) U.S. Constitution > Art. 1 legislative branch (2) statutes / codes > Ar
 
 In order for a law to be binding, **it must be considered mandatory authority in the jurisdiction where the case is brought.**
 
-### Mandatory authority
+## Mandatory authority
 
 - statutes
 - administrative law
 - cases
 
-## Ideal case law
+### Ideal case law
 
 mandatory precedent
 
-<p style="margin-left:10%; margin-right:10%;">with similar facts</p>
+<p style="margin-left:10%; margin-right:10%;">on same issue,</p>
 
-<p style="margin-left:15%; margin-right:10%;">that is still good law</p>
+<p style="margin-left:15%; margin-right:10%;">with similar facts,</p>
 
-<p style="margin-left:20%; margin-right:10%;">with good legal reasoning</p>
+<p style="margin-left:20%; margin-right:10%;">that is still good law,</p>
 
-<p style="margin-left:25%; margin-right:10%;">that is often cited</p>
+<p style="margin-left:25%; margin-right:10%;">with good legal reasoning,</p>
 
-<p style="margin-left:30%; margin-right:10%;">and is relatively recent.</p>
+<p style="margin-left:30%; margin-right:10%;">that is often cited,</p>
 
-### Persuasive authority
+<p style="margin-left:35%; margin-right:10%;">and relatively recent.</p>
+
+## Persuasive authority
 
 Courts have discretion to consider non-mandatory primary and secondary sources as persuasive authority. Sometimes primary law sources from another jurisdiction can be used persuasively. Secondary sources can sometimes be used persuasively too. Both can play a role in situations such as:
 
@@ -107,6 +110,8 @@ Courts have discretion to consider non-mandatory primary and secondary sources a
 - challenging the validity of the laws themselves.
 
 ## Case authority - additional considerations
+
+Parts of cases become law when a case is binding
 
 ### Precedent - stare decisis
 
@@ -136,8 +141,8 @@ Most cases contain a single written opinion that constitutes the court’s decis
 
 - **Majority opinion** - more than half of the judges deciding the case have signed onto. **When a majority opinion exists, it is controlling and constitutes the law.** The majority opinion appears first.
 - **Concurring opinions** agree with the outcome of a case, but for different reasons. **When there is a majority opinion in a case, the concurring opinion cannot be considered mandatory** because the rationale of a concurring opinion differs in some way from the majority. However, *a concurring opinion can sometimes be considered to hold mandatory authority* when no opinion has the support of a majority of the judges.
-- **Plurality opinions** exist in cases where the majority of judges agree on the outcome of the case but no opinion has the support of the majority. In other words, although a majority of judges concur in the outcome, they don’t agree on the reasons for it. In this situation, the opinion in favor of the winning party that has the most support among the judges is the plurality opinion. However, **the plurality opinion is not automatically the controlling one.** The U.S. Supreme Court stated in *Marks v. United States* that when no opinion has the support of the majority, the controlling opinion will be the one that decided the issue on the narrowest grounds. Where there is no majority opinion, a concurring opinion could be considered controlling if it fits the Supreme Court’s criteria better than the plurality opinion. Interpreting this rule has created some confusion in later cases; *when there is no majority opinion in a case I want to use I will have to do additional research to determine whether the plurality or a concurring opinion is controlling.*
-- **Dissenting opinions** are **never considered mandatory** as they disagree with the outcome of the case, either in whole or in part. However, sometimes a dissent proposes changes in the law or contains an insightful analysis that can be used persuasively in later cases to challenge established precedent.
+- **Plurality opinions** exist in cases where the majority of judges agree on the outcome of the case but no opinion has the support of the majority. In other words, although a majority of judges concur in the outcome, they don’t agree on the reasons for it. In this situation, the opinion in favor of the winning party that has the most support among the judges is the plurality opinion. However, **the plurality opinion is not automatically the controlling one.** The U.S. Supreme Court stated in *Marks v. United States* that when no opinion has the support of the majority, **the controlling opinion will be the one that decided the issue on the narrowest grounds.** Where there is no majority opinion, a concurring opinion could be considered controlling if it fits the Supreme Court’s criteria better than the plurality opinion. Interpreting this rule has created some confusion in later cases; *when there is no majority opinion in a case I want to use I will have to do additional research to determine whether the plurality or a concurring opinion is controlling.*
+- **Dissenting opinions** are **never considered mandatory.**
 
 # Updating Legal Sources
 
@@ -458,3 +463,45 @@ may identify and find those authorities for future research.” **Rule 1 of the 
 [^19]: Law review article. Author, title, volume, journal (abbreviations at T.13), first page, pinpoint page, year in parentheses.
 [^20]: A.L.R. annotation. Author, title, volume, journal (abbreviations at
 T.13), first page, pinpoint page, year in parentheses.
+
+---
+
+## Finding cases
+
+- I have one case, I need more.
+- Read cases, statutes, secondary sources cited by my case
+- Use Shepard's and Citing References to find new cases that cite my case and secondary sources
+- Headnotes and digests: topic & key number (West) Headnotes (Lexis)
+- Topic & key number were in margins of physical volumes of West Case Reporter
+- West Key Number System is online tool now
+
+## Citators
+
+- Shepard's (Lexis)
+- Citing References/Keycite (West)
+
+**Use citators to:**
+
+1. make sure legal authority is still good law
+2. double check legal authority is still good law
+3. find other relevant legal authority that cite my case
+4. find relevant secondary sources 
+
+### The seven Shepards signals  
+
+- **Red stop sign:** warning - negative treatment. Does not always mean not good law. Possible negative history or treatment and needs review; maybe a part is not good, but other parts are still good.
+- **Red exclamation mark in white circle:** negative case treatment indicated for statute
+- **Orange square:** validity questioned by cititng references
+- **Yellow triangle:** caution - possible negative treatment
+- **Green diamond:** positive treatment indicated
+- **Blue circle with A:** cited and neutral analysis indicated
+- **Blue circle with I:** cited references available
+
+### Keycite status flags
+
+- **Red flag:** case or administrative decision no longer good law for at least one of its points
+- **Yellow flag:** case or administrative decision has some negative history but has not been reversed or overruled
+- **Blue-striped flag:** case has been appealed to U.S. Court of Appeals or U.S. Supreme Court
+- **Overruling risk:** warning indicating case or administrative decision may no longer be good for at least one point of law based on its reliance on an overruled or otherwise invalid prior decision
+
+---
