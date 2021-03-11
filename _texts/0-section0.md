@@ -183,6 +183,8 @@ Fourth | 5th JD | Herkimer, Jefferson, Lewis, Oneida, Onondaga, Oswego |
 --^^-- | 7th JD | Cayuga, Livingston, Monroe, Ontario, Seneca, Steuben, Wayne, Yates |
 --^^-- | 8th JD | Allegany, Cattaraugus, Chautaqua, Erie, Genesee, Niagara, Orleans, Wyoming |
 
+---
+
 ### Authority in New York State Courts
 
 In New York, the Appellate Division is split into four departments, but there is disagreement about whether decisions of one department’s Appellate Division court are binding on trial courts in other departments. In *Mountain View Coach Lines, Inc. v. Storms*, 102 A.D.2d 663 (2d Dep’t 1984), the second department Appellate Division court stated that the Appellate Division is one court divided into departments only for administrative convenience, and held that **decisions coming from any Appellate Division department are binding on all state trial courts in New York, as long as there is not a contrary ruling by the Appellate Division court in their own departments**. The Mountain View decision is still considered good law
@@ -192,39 +194,18 @@ Some trial courts in the First Department have not followed Mountain View and vi
 
 New York appellate court decisions trial courts in New York will consider binding authority:
 
-- Decisions from the Appellate Division court in your department are always
-considered mandatory; additionally,
-- For trial courts in the Second Department, decisions from Appellate Division
-courts in other departments are mandatory as long as they are not in conflict with
-decisions from the Appellate Division court in the second department;
-- For trial courts in the First Department, decisions from Appellate Division courts
-in other departments are not mandatory, but will be considered strongly
-persuasive as long as they are not in conflict with decisions from the Appellate
-Division court in the First Department;
-- For trial courts in the Third and Fourth Departments, if you want to argue that an
-Appellate Division decision from a different department is mandatory you will
-need to do some additional research to see under what circumstances, if any,
-Mountain View has been followed or distinguished by courts those departments.
+- Decisions from the Appellate Division court in your department are always considered mandatory; additionally,
+- For trial courts in the Second Department, decisions from Appellate Division courts in other departments are mandatory as long as they are not in conflict with decisions from the Appellate Division court in the second department;
+- For trial courts in the First Department, decisions from Appellate Division courts in other departments are not mandatory, but will be considered strongly
+persuasive as long as they are not in conflict with decisions from the Appellate Division court in the First Department;
+- For trial courts in the Third and Fourth Departments, if you want to argue that an Appellate Division decision from a different department is mandatory you will need to do some additional research to see under what circumstances, if any, Mountain View has been followed or distinguished by courts those departments.
 
----
-
-### Mountain View
-
-In the 1984 'Mountain View' Decision the questions of binding authority among the four judicial departments of New York state was addressed. Mountain View involved a collision between a bus owned by the plaintiff and a motor vehicle owned by the defendant. It was undisputed that the defendant was negligent; the issue at hand related only to damages. The Second Department applied a damages rule that directly conflicted with a damages rule on the same issue applicable in the Third Department. In holding that it was free to accept or reject appellate rulings of sister appellate courts, the Second Department went on to note that if there were no other appellate decisions in the Second Department, the trial court would have been required to apply the contrary rule from the Third Department. In particular, the court held that **"stare decisis requires trial courts in this department to follow precedents set by the Appellate Division of another department until the Court of Appeals or this court pronounces a contrary rule."** The late Judge Vito Titone, then sitting in the Appellate Division, explained his opinion by stating that adhering to such a policy "is a general principle of appellate procedure, necessary to maintain uniformity and consistency."
-
-Not surprisingly, the trial courts of the Second Department fall in line with the Mountain View doctrine, which was decided in their home department. The courts of the Third Department follow Mountain View. **The Fourth Department has never passed directly on the issue,** and reported decisions from that department shed little light on how that court would decide the issue. That leaves only the First Department, where  some confusion lies. **There are no cases in the First Department that directly and explicitly pass on and in favor of the Mountain View doctrine, although several cases do so implicitly.** 
+Trial courts of the Second Department fall in line with the Mountain View doctrine, which was decided in their home department. The courts of the Third Department follow Mountain View. **The Fourth Department has never passed directly on the issue,** and reported decisions from that department shed little light on how that court would decide the issue. That leaves only the First Department, where  some confusion lies. **There are no cases in the First Department that directly and explicitly pass on and in favor of the Mountain View doctrine, although several cases do so implicitly.**
 
 1st Dep | 2nd Dep | 3rd Dep | 4th Dep |
 Patterson, Manson (not persuasive) | ------- | People v. Haddock Court of appeals | ------- |
 
 There is some authority that if my department hasn't talked but another department has that a court of appeals decision in another department is authoritative and 1st Department should be mandatory authority for the 3rd Department.
-
-1. Rule 1: go to the library (secondary sources)
-2. Rule 0.25: pen and paper
-3. Rule 0.5: what is the deliverable? (lawyers are in the delivery business)
-4. Rule 0.75: where should I begin?
-
-Look again at the legal research [Mini Playbook](http://www.alr.legalresearch.nyc/playbook.pdf)
 
 ---
 
