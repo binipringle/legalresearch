@@ -99,6 +99,8 @@ Mandatory precedent
 
 <p style="margin-left:35%; margin-right:10%;">and relatively recent.</p>
 
+---
+
 ## Persuasive authority
 
 Courts have discretion to consider non-mandatory primary and secondary sources as persuasive authority.
@@ -442,6 +444,7 @@ T.13), first page, pinpoint page, year in parentheses.
 
 - Shepard's (Lexis)
 - Citing References/Keycite (West)
+- BCite (Bloomberg)
 
 **Use citators to:**
 
@@ -466,5 +469,32 @@ T.13), first page, pinpoint page, year in parentheses.
 - **Yellow flag:** case or administrative decision has some negative history but has not been reversed or overruled
 - **Blue-striped flag:** case has been appealed to U.S. Court of Appeals or U.S. Supreme Court
 - **Overruling risk:** warning indicating case or administrative decision may no longer be good for at least one point of law based on its reliance on an overruled or otherwise invalid prior decision
+
+### Asterisks
+
+[*358] everything after this number is on page 358 of the print reporter
+
+**232 two asterisks designate pages in the parallel unofficial reporter
+
+---
+
+### Citator Gap
+
+The status of a case as precedent can be affected not only by what later cases have said
+about it, but also by the current status of the earlier cases it relied on in reaching its
+decision. Citators were originally designed to track later citations to the case being updated, but they did not inform researchers about whether the earlier cases cited within the
+opinion were still good law. For example, you could have a case you are updating that has
+received no negative treatment by later cases, but if the earlier case precedents your case
+relied on were later overruled, the authority of your case might have been implicitly
+overruled and there would be no indication of this from the citator. This scenario is known
+as the “citator gap.” (Saxon, Progressive Legal Research 97)
+
+### Table of Authorities
+
+In order to alert researchers about cases that might have been weakened by the citator
+gap, Westlaw and Lexis both developed a tool known as the “Table of Authorities.” The
+Table of Authorities on Lexis+ can be accessed as a link on the Shepard’s result screen. On
+Westlaw Edge you can view the Table of Authorities tab while viewing a case. Bloomberg
+Law includes a Table of Authorities option on its BCite screen. (Saxon, Progressive Legal Research 97)
 
 ---
