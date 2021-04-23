@@ -146,7 +146,7 @@ Determine whether each source reflects the current status of the law and which s
 
 ---
 
-### New York State Legal System and Sources of Law
+## New York State Legal System and Sources of Law
 
 1. **Legislative branch:** Senate and Assembly. Legislation passed by both chambers and not vetoed by governor becomes part of the NYS statutes.
 2. **Executive branch:** Governor presiding over administrative agencies (usually created by the legislature) which create and enforce New York state regulations.
@@ -154,7 +154,7 @@ Determine whether each source reflects the current status of the law and which s
 
 ---
 
-### New York State Court System 
+## New York State Court System
 
 Differs from the federal system in important ways, such as different types of trial courts,  civil and criminal court systems.
 
@@ -168,7 +168,9 @@ Intermediate-Appellate Courts are **N.Y. Supreme Court, Appellate Division** is 
 
 Trial courts are much more complicated than in the federal system. N.Y. Family Court, N.Y. Surrogate's Court, N.Y. Supreme Court *and others.* Other minor courts in certain counties. **N.Y. state trial level courts have no binding authority on each other.**
 
-#### New York State Jurisdictional Subdivisions
+---
+
+### New York State Jurisdictional Subdivisions
 
 *Counties also grouped by state Judicial District number because some NY trial courts use that jurisdictional designation rather than a county. Not to be confused with the Appellate Department number.*
 
@@ -189,7 +191,7 @@ Fourth | 5th JD | Herkimer, Jefferson, Lewis, Oneida, Onondaga, Oswego |
 
 ---
 
-### Authority in New York State Courts
+## Authority in New York State Courts
 
 In New York, the Appellate Division is split into four departments, but there is disagreement about whether decisions of one department’s Appellate Division court are binding on trial courts in other departments. In *Mountain View Coach Lines, Inc. v. Storms*, 102 A.D.2d 663 (2d Dep’t 1984), the second department Appellate Division court stated that the Appellate Division is one court divided into departments only for administrative convenience, and held that **decisions coming from any Appellate Division department are binding on all state trial courts in New York, as long as there is not a contrary ruling by the Appellate Division court in their own departments**. The Mountain View decision is still considered good law
 in the Second Department and continues to be cited as authority and followed.
@@ -225,6 +227,8 @@ There is some authority that if my department hasn't talked but another departme
 Wrong way: random terms > dive into first case Westlaw returns > dive into other cases > down rabbit hole. (pizza box)
 
 See [mini-playbook](https://binipringle.github.io/legalresearch/texts/2-section2/) for method of research.
+
+---
 
 ## Types of secondary sources
 
@@ -442,6 +446,8 @@ T.13), first page, pinpoint page, year in parentheses.
 - Topic & key number were in margins of physical volumes of West Case Reporter
 - West Key Number System is online tool now
 
+---
+
 ## Citators
 
 - Shepard's (Lexis)
@@ -455,6 +461,8 @@ T.13), first page, pinpoint page, year in parentheses.
 3. find other relevant legal authority that cite my case
 4. find relevant secondary sources
 
+---
+
 ### The seven Shepards signals  
 
 - **Red stop sign:** warning - negative treatment. Does not always mean not good law. Possible negative history or treatment and needs review; maybe a part is not good, but other parts are still good.
@@ -465,12 +473,16 @@ T.13), first page, pinpoint page, year in parentheses.
 - **Blue circle with A:** cited and neutral analysis indicated
 - **Blue circle with I:** cited references available
 
+---
+
 ### Keycite status flags
 
 - **Red flag:** case or administrative decision no longer good law for at least one of its points
 - **Yellow flag:** case or administrative decision has some negative history but has not been reversed or overruled
 - **Blue-striped flag:** case has been appealed to U.S. Court of Appeals or U.S. Supreme Court
 - **Overruling risk:** warning indicating case or administrative decision may no longer be good for at least one point of law based on its reliance on an overruled or otherwise invalid prior decision
+
+---
 
 ### Asterisks
 
@@ -490,6 +502,8 @@ received no negative treatment by later cases, but if the earlier case precedent
 relied on were later overruled, the authority of your case might have been implicitly
 overruled and there would be no indication of this from the citator. This scenario is known
 as the “citator gap.” (Saxon, Progressive Legal Research 97)
+
+---
 
 ### Table of Authorities
 
