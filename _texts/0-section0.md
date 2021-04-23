@@ -21,8 +21,8 @@ toc:
 - Majority, Concurring, Plurality, and Dissenting Opinions
 - Updating Legal Sources
 - The Federal Court System
-- The New York State Legal System and Sources of Law
-- N.Y. Court System
+- New York State Legal System and Sources of Law
+- New York State Court System
 - New York State Jurisdictional Subdivisions
 - Authority in New York State Courts
 - Mountain View
@@ -146,13 +146,15 @@ Determine whether each source reflects the current status of the law and which s
 
 ---
 
-### The New York State Legal System and Sources of Law
+### New York State Legal System and Sources of Law
 
 1. **Legislative branch:** Senate and Assembly. Legislation passed by both chambers and not vetoed by governor becomes part of the NYS statutes.
 2. **Executive branch:** Governor presiding over administrative agencies (usually created by the legislature) which create and enforce New York state regulations.
 3. **Judicial branch:**
 
-## N.Y. Court System
+---
+
+### New York State Court System 
 
 Differs from the federal system in important ways, such as different types of trial courts,  civil and criminal court systems.
 
